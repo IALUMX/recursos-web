@@ -1,0 +1,950 @@
+{
+  "metadata": {
+    "titulo": "Temario Maestro CEPREDIX Actualizado 2026",
+    "version": "2026",
+    "formato": "Jerárquico"
+  },
+  "bloques": [
+    {
+      "id": "bloque_1",
+      "nombre": "Bloque I: Habilidades Transversales y Lenguaje",
+      "temas": [
+        {
+          "id": "1",
+          "titulo": "Competencia Lingüística y Redacción",
+          "tags": ["GENERAL"],
+          "children": [
+            {
+              "id": "1.1",
+              "titulo": "Comprensión de Textos",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "1.1.1",
+                  "titulo": "Análisis de contenido e intención",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "1.1.1.1", "titulo": "Localización de información explícita e implícita.", "tags": ["GENERAL"] },
+                    { "id": "1.1.1.2", "titulo": "Identificación de la idea principal, ideas secundarias y propósito comunicativo.", "tags": ["GENERAL"] },
+                    { "id": "1.1.1.3", "titulo": "Distinción entre hechos, opiniones, inferencias y falacias lógicas.", "tags": ["GENERAL"] },
+                    { "id": "1.1.1.4", "titulo": "Interpretación de sentido figurado, metáforas, símiles e ironía.", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "1.1.2",
+                  "titulo": "Estructura del texto",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "1.1.2.1", "titulo": "Identificación de introducción, desarrollo, conclusión y párrafos de transición.", "tags": ["GENERAL"] },
+                    { "id": "1.1.2.2", "titulo": "Reconocimiento de la tesis, argumentos y contraargumentos.", "tags": ["GENERAL"] },
+                    { "id": "1.1.2.3", "titulo": "Tipos de texto: narrativo, descriptivo, expositivo, argumentativo, instructivo.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "1.2",
+              "titulo": "Gramática y Redacción Indirecta",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "1.2.1",
+                  "titulo": "Reglas ortográficas y uso de letras",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "1.2.1.1", "titulo": "Acentuación: palabras agudas, graves, esdrújulas, sobresdrújulas y diacrítica.", "tags": ["GENERAL"] },
+                    { "id": "1.2.1.2", "titulo": "Uso de grafías: B/V, G/J, S/C/Z, H, X, LL/Y, M/N.", "tags": ["GENERAL"] },
+                    { "id": "1.2.1.3", "titulo": "Puntuación: uso de coma, punto y coma, dos puntos, puntos suspensivos, comillas, paréntesis, guiones.", "tags": ["GENERAL"] },
+                    { "id": "1.2.1.4", "titulo": "Uso correcto de que/qué, sino/si no, dequeísmo/queísmo.", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "1.2.2",
+                  "titulo": "Morfosintaxis y Cohesión",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "1.2.2.1", "titulo": "Concordancia nominal (género/número) y verbal (sujeto/verbo, colectivos).", "tags": ["GENERAL"] },
+                    { "id": "1.2.2.2", "titulo": "Uso correcto de nexos, conectores discursivos (aditivos, adversativos, causales) y preposiciones.", "tags": ["GENERAL"] },
+                    { "id": "1.2.2.3", "titulo": "Estructura de la oración simple y compuesta (coordinadas, subordinadas).", "tags": ["GENERAL"] },
+                    { "id": "1.2.2.4", "titulo": "Vicios del lenguaje: solecismos, pleonasmos, cacofonías, anfibologías y redundancia.", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "1.2.3",
+                  "titulo": "Semántica y Vocabulario",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "1.2.3.1", "titulo": "Sinónimos, antónimos, homónimos, parónimos y polisemia en contexto.", "tags": ["GENERAL"] },
+                    { "id": "1.2.3.2", "titulo": "Analogías verbales: relaciones de causa-efecto, parte-todo, medio-fin, oposición, género-especie.", "tags": ["GENERAL"] },
+                    { "id": "1.2.3.3", "titulo": "Denotación y connotación.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "titulo": "Razonamiento Lógico y Abstracto",
+          "tags": ["GENERAL"],
+          "children": [
+            {
+              "id": "2.1",
+              "titulo": "Razonamiento Visuoespacial",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "2.1.1",
+                  "titulo": "Transformaciones 2D y 3D",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "2.1.1.1", "titulo": "Series espaciales y matrices de figuras.", "tags": ["GENERAL"] },
+                    { "id": "2.1.1.2", "titulo": "Imaginación espacial: Giros, rotaciones, reflexiones (simetrías) y proyecciones.", "tags": ["GENERAL"] },
+                    { "id": "2.1.1.3", "titulo": "Conteo de elementos ocultos en bloques tridimensionales.", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "2.1.2",
+                  "titulo": "Análisis de patrones",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "2.1.2.1", "titulo": "Identificación de patrones de cambio, simetría y secuencias lógicas.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2.2",
+              "titulo": "Razonamiento Lógico-Verbal",
+              "tags": ["GENERAL"],
+              "children": [
+                { "id": "2.2.1", "titulo": "Silogismos categóricos y diagramas de Venn.", "tags": ["GENERAL"] },
+                { "id": "2.2.2", "titulo": "Inferencias lógicas a partir de premisas dadas.", "tags": ["GENERAL"] },
+                { "id": "2.2.3", "titulo": "Identificación de premisas, conclusiones y supuestos en argumentos.", "tags": ["GENERAL"] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloque_2",
+      "nombre": "Bloque II: Matemáticas",
+      "temas": [
+        {
+          "id": "3",
+          "titulo": "Pensamiento Matemático y Álgebra Básica",
+          "tags": ["GENERAL"],
+          "children": [
+            {
+              "id": "3.1",
+              "titulo": "Aritmética",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "3.1.1",
+                  "titulo": "Números Reales y Operaciones",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.1.1.1", "titulo": "Operaciones básicas y jerarquía de operaciones (PEMDAS).", "tags": ["GENERAL"] },
+                    { "id": "3.1.1.2", "titulo": "Mínimo Común Múltiplo (mcm) y Máximo Común Divisor (MCD).", "tags": ["GENERAL"] },
+                    { "id": "3.1.1.3", "titulo": "Fracciones, decimales, porcentajes y notación científica.", "tags": ["GENERAL"] },
+                    { "id": "3.1.1.4", "titulo": "Números imaginarios y complejos (operaciones básicas).", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] }
+                  ]
+                },
+                {
+                  "id": "3.1.2",
+                  "titulo": "Razonamiento Proporcional",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.1.2.1", "titulo": "Razones, tasas, proporciones y variación (directa, inversa, conjunta).", "tags": ["GENERAL"] },
+                    { "id": "3.1.2.2", "titulo": "Regla de tres simple y compuesta.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3.2",
+              "titulo": "Álgebra",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "3.2.1",
+                  "titulo": "Fundamentos Algebraicos",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.2.1.1", "titulo": "Lenguaje algebraico: traducción de enunciados y evaluación de expresiones.", "tags": ["GENERAL"] },
+                    { "id": "3.2.1.2", "titulo": "Leyes de los exponentes (enteros y racionales) y radicales (simplificación, operaciones).", "tags": ["GENERAL"] },
+                    { "id": "3.2.1.3", "titulo": "Operaciones con polinomios: suma, resta, multiplicación, división (sintética y larga).", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "3.2.2",
+                  "titulo": "Productos Notables y Factorización",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.2.2.1", "titulo": "Productos notables: binomio al cuadrado, binomios conjugados, binomio con término común, trinomio al cuadrado perfecto.", "tags": ["GENERAL"] },
+                    { "id": "3.2.2.2", "titulo": "Binomio de Newton / Triángulo de Pascal (para potencias superiores).", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] },
+                    { "id": "3.2.2.3", "titulo": "Factorización: factor común, factorización por agrupación, trinomios de la forma x²+bx+c y ax²+bx+c, diferencia de cuadrados, suma y diferencia de cubos.", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "3.2.3",
+                  "titulo": "Ecuaciones y Desigualdades",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.2.3.1", "titulo": "Ecuaciones de primer grado con una y varias incógnitas.", "tags": ["GENERAL"] },
+                    { "id": "3.2.3.2", "titulo": "Sistemas de ecuaciones lineales (2x2 y 3x3): métodos de solución (sustitución, igualación, reducción, determinantes).", "tags": ["GENERAL"] },
+                    { "id": "3.2.3.3", "titulo": "Ecuaciones de segundo grado: fórmula general, factorización y completando el cuadrado.", "tags": ["GENERAL"] },
+                    { "id": "3.2.3.4", "titulo": "Desigualdades e inecuaciones lineales y cuadráticas.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3.3",
+              "titulo": "Estadística y Probabilidad Básica",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "3.3.1",
+                  "titulo": "Estadística Descriptiva",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.3.1.1", "titulo": "Medidas de tendencia central: media, mediana, moda.", "tags": ["GENERAL"] },
+                    { "id": "3.3.1.2", "titulo": "Medidas de dispersión: rango, varianza, desviación estándar.", "tags": ["GENERAL"] },
+                    { "id": "3.3.1.3", "titulo": "Interpretación de gráficas: barras, circulares, histogramas, polígonos de frecuencia, diagramas de caja (box-plot).", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "3.3.2",
+                  "titulo": "Probabilidad",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.3.2.1", "titulo": "Espacio muestral, eventos, probabilidad clásica (Laplace).", "tags": ["GENERAL"] },
+                    { "id": "3.3.2.2", "titulo": "Probabilidad de eventos independientes, dependientes, mutuamente excluyentes y complementarios.", "tags": ["GENERAL"] },
+                    { "id": "3.3.2.3", "titulo": "Reglas de conteo: principio multiplicativo, permutaciones y combinaciones.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "3.4",
+              "titulo": "Geometría y Trigonometría",
+              "tags": ["GENERAL"],
+              "children": [
+                {
+                  "id": "3.4.1",
+                  "titulo": "Geometría Euclidiana",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.4.1.1", "titulo": "Ángulos: entre paralelas y transversales, en polígonos.", "tags": ["GENERAL"] },
+                    { "id": "3.4.1.2", "titulo": "Triángulos: clasificación, teorema de Pitágoras, semejanza y congruencia (Teorema de Tales).", "tags": ["GENERAL"] },
+                    { "id": "3.4.1.3", "titulo": "Polígonos y Círculo: perímetros, áreas, longitud de circunferencia, área del sector circular.", "tags": ["GENERAL"] },
+                    { "id": "3.4.1.4", "titulo": "Cuerpos geométricos: prismas, pirámides, cilindros, conos, esferas (área superficial y volumen).", "tags": ["GENERAL"] }
+                  ]
+                },
+                {
+                  "id": "3.4.2",
+                  "titulo": "Trigonometría",
+                  "tags": ["GENERAL"],
+                  "children": [
+                    { "id": "3.4.2.1", "titulo": "Razones trigonométricas en triángulos rectángulos: seno, coseno, tangente, cotangente, secante, cosecante.", "tags": ["GENERAL"] },
+                    { "id": "3.4.2.2", "titulo": "Ley de Senos y Ley de Cosenos (resolución de triángulos oblicuángulos).", "tags": ["GENERAL"] },
+                    { "id": "3.4.2.3", "titulo": "Identidades trigonométricas fundamentales: recíprocas, pitagóricas, de cociente.", "tags": ["GENERAL"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "titulo": "Matemáticas Avanzadas",
+          "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "BUAP A2", "EXANI II MOD04"],
+          "children": [
+            {
+              "id": "4.1",
+              "titulo": "Geometría Analítica",
+              "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"],
+              "children": [
+                {
+                  "id": "4.1.1",
+                  "titulo": "Conceptos Básicos",
+                  "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"],
+                  "children": [
+                    { "id": "4.1.1.1", "titulo": "Distancia entre dos puntos, punto medio y división de un segmento en una razón dada.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] },
+                    { "id": "4.1.1.2", "titulo": "Pendiente, ángulo de inclinación y condiciones de paralelismo y perpendicularidad entre rectas.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] }
+                  ]
+                },
+                {
+                  "id": "4.1.2",
+                  "titulo": "Cónicas",
+                  "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"],
+                  "children": [
+                    { "id": "4.1.2.1", "titulo": "La Recta: ecuaciones (general, punto-pendiente, simétrica, forma normal).", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] },
+                    { "id": "4.1.2.2", "titulo": "La Circunferencia: ecuación canónica y general.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] },
+                    { "id": "4.1.2.3", "titulo": "La Parábola: elementos (vértice, foco, directriz, lado recto) y ecuaciones.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] },
+                    { "id": "4.1.2.4", "titulo": "La Elipse e Hipérbola: elementos (focos, vértices, ejes) y ecuaciones.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "BUAP A2"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4.2",
+              "titulo": "Funciones y Precálculo",
+              "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"],
+              "children": [
+                {
+                  "id": "4.2.1",
+                  "titulo": "Análisis de Funciones",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"],
+                  "children": [
+                    { "id": "4.2.1.1", "titulo": "Definición, dominio, rango y gráfica de funciones.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.2.1.2", "titulo": "Clasificación: funciones algebraicas (polinomiales, racionales, radicales) y trascendentes (exponenciales, logarítmicas).", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.2.1.3", "titulo": "Operaciones con funciones: suma, resta, producto, cociente y composición.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "4.3",
+              "titulo": "Cálculo Diferencial e Integral",
+              "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04", "BUAP A2"],
+              "children": [
+                {
+                  "id": "4.3.1",
+                  "titulo": "Límites y Continuidad",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"],
+                  "children": [
+                    { "id": "4.3.1.1", "titulo": "Teoremas de límites, límites laterales, límites al infinito y límites infinitos.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.1.2", "titulo": "Continuidad y tipos de discontinuidad.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.1.3", "titulo": "Regla de L'Hôpital.", "tags": ["IPN A1", "UNAM A1", "EXANI II MOD04"] }
+                  ]
+                },
+                {
+                  "id": "4.3.2",
+                  "titulo": "La Derivada",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"],
+                  "children": [
+                    { "id": "4.3.2.1", "titulo": "Definición, reglas básicas (potencia, producto, cociente).", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.2.2", "titulo": "Regla de la cadena, derivadas de funciones trigonométricas, exponenciales y logarítmicas.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.2.3", "titulo": "Derivadas implícitas y de orden superior.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.2.4", "titulo": "Aplicaciones: recta tangente, máximos y mínimos, problemas de optimización.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] }
+                  ]
+                },
+                {
+                  "id": "4.3.3",
+                  "titulo": "La Integral",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"],
+                  "children": [
+                    { "id": "4.3.3.1", "titulo": "Integral indefinida: integral inmediata y cambio de variable.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] },
+                    { "id": "4.3.3.2", "titulo": "Métodos de integración: por partes, fracciones parciales, sustitución trigonométrica.", "tags": ["UNAM A1", "IPN A1", "EXANI II MOD04"] },
+                    { "id": "4.3.3.3", "titulo": "Integral definida, Teorema Fundamental del Cálculo y cálculo de áreas bajo la curva y entre curvas.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD04"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloque_3",
+      "nombre": "Bloque III: Ciencias Experimentales",
+      "temas": [
+        {
+          "id": "5",
+          "titulo": "Física",
+          "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "UAM A4", "BUAP A2", "EXANI II MOD09"],
+          "children": [
+            {
+              "id": "5.1",
+              "titulo": "Mecánica Clásica",
+              "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"],
+              "children": [
+                {
+                  "id": "5.1.1",
+                  "titulo": "Cinemática",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"],
+                  "children": [
+                    { "id": "5.1.1.1", "titulo": "MRU, MRUA, tiro vertical y Caída Libre.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.1.1.2", "titulo": "Movimiento de proyectiles (tiro parabólico) y movimiento circular uniforme (MCU).", "tags": ["UNAM A1", "IPN A1", "UAM A1"] },
+                    { "id": "5.1.1.3", "titulo": "Vectores: suma, resta, componentes rectangulares, producto punto y producto cruz.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"] }
+                  ]
+                },
+                {
+                  "id": "5.1.2",
+                  "titulo": "Dinámica y Estática",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"],
+                  "children": [
+                    { "id": "5.1.2.1", "titulo": "Leyes de Newton y Diagrama de Cuerpo Libre.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.1.2.2", "titulo": "Ley de la Gravitación Universal y fuerza centrípeta.", "tags": ["UNAM A1", "IPN A1"] },
+                    { "id": "5.1.2.3", "titulo": "Estática: equilibrio de fuerzas, momento de torsión (torque) y palancas.", "tags": ["IPN A1", "UAM A1"] },
+                    { "id": "5.1.2.4", "titulo": "Fricción estática y cinética.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.1.2.5", "titulo": "Momento lineal (cantidad de movimiento), impulso y conservación del momento lineal.", "tags": ["UNAM A1", "IPN A1", "UAM A1"] }
+                  ]
+                },
+                {
+                  "id": "5.1.3",
+                  "titulo": "Trabajo y Energía",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"],
+                  "children": [
+                    { "id": "5.1.3.1", "titulo": "Trabajo mecánico, energía cinética y potencial (gravitatoria y elástica).", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.1.3.2", "titulo": "Conservación de la energía mecánica y fuerzas conservativas.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "IPN A2", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.1.3.3", "titulo": "Potencia mecánica.", "tags": ["UNAM A1", "IPN A1"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.2",
+              "titulo": "Termodinámica",
+              "tags": ["UNAM A1", "UNAM A2", "IPN A1", "UAM A1", "EXANI II MOD09"],
+              "children": [
+                {
+                  "id": "5.2.1",
+                  "titulo": "Calor y Temperatura",
+                  "tags": ["UNAM A1", "UNAM A2", "IPN A1", "UAM A1"],
+                  "children": [
+                    { "id": "5.2.1.1", "titulo": "Escalas termométricas, calor específico y calor latente.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "UAM A1"] },
+                    { "id": "5.2.1.2", "titulo": "Transmisión de calor (conducción, convección, radiación).", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "EXANI II MOD09"] },
+                    { "id": "5.2.1.3", "titulo": "Leyes de la Termodinámica (Cero, Primera y Segunda) y máquinas térmicas.", "tags": ["UNAM A1", "UNAM A2", "IPN A1", "UAM A1", "EXANI II MOD09"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.3",
+              "titulo": "Electromagnetismo y Ondas",
+              "tags": ["UNAM A1", "IPN A1", "UAM A1", "EXANI II MOD09"],
+              "children": [
+                {
+                  "id": "5.3.1",
+                  "titulo": "Electricidad",
+                  "tags": ["UNAM A1", "IPN A1", "UAM A1", "EXANI II MOD09"],
+                  "children": [
+                    { "id": "5.3.1.1", "titulo": "Ley de Coulomb, Campo Eléctrico y potencial eléctrico.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.3.1.2", "titulo": "Ley de Ohm, resistencia, circuitos (serie, paralelo, mixtos) y leyes de Kirchhoff.", "tags": ["UNAM A1", "IPN A1", "UAM A1", "EXANI II MOD09"] },
+                    { "id": "5.3.1.3", "titulo": "Potencia eléctrica y Efecto Joule.", "tags": ["UNAM A1", "IPN A1"] }
+                  ]
+                },
+                {
+                  "id": "5.3.2",
+                  "titulo": "Magnetismo y Óptica",
+                  "tags": ["UNAM A1", "IPN A1", "EXANI II MOD09"],
+                  "children": [
+                    { "id": "5.3.2.1", "titulo": "Campo magnético, fuerza de Lorentz, inducción electromagnética (Ley de Faraday y Lenz).", "tags": ["UNAM A1", "IPN A1", "EXANI II MOD09"] },
+                    { "id": "5.3.2.2", "titulo": "Reflexión y Refracción de la luz (ley de Snell), lentes delgadas y espejos.", "tags": ["UNAM A1", "IPN A1", "EXANI II MOD09", "UAM A4"] },
+                    { "id": "5.3.2.3", "titulo": "Naturaleza de la luz (ondulatoria vs. corpuscular) y espectro electromagnético.", "tags": ["UNAM A1", "IPN A1"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5.4",
+              "titulo": "Física Moderna y de Fluidos",
+              "tags": ["UNAM A1", "IPN A1", "UAM A1"],
+              "children": [
+                {
+                  "id": "5.4.1",
+                  "titulo": "Fluidos",
+                  "tags": ["UNAM A1", "IPN A1", "UAM A1"],
+                  "children": [
+                    { "id": "5.4.1.1", "titulo": "Presión hidrostática, Principio de Pascal y Arquímedes.", "tags": ["UNAM A1", "IPN A1", "UAM A1"] },
+                    { "id": "5.4.1.2", "titulo": "Ecuación de continuidad y principio de Bernoulli.", "tags": ["UNAM A1", "IPN A1", "UAM A1"] }
+                  ]
+                },
+                {
+                  "id": "5.4.2",
+                  "titulo": "Física Moderna",
+                  "tags": ["UNAM A1", "IPN A1"],
+                  "children": [
+                    { "id": "5.4.2.1", "titulo": "Modelos atómicos (Thomson, Rutherford, Bohr), dualidad onda-partícula.", "tags": ["UNAM A1", "IPN A1"] },
+                    { "id": "5.4.2.2", "titulo": "Radiactividad (alfa, beta, gamma) y conceptos básicos de relatividad.", "tags": ["UNAM A1", "IPN A1"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "titulo": "Química",
+          "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "BUAP A1", "EXANI II MOD16"],
+          "children": [
+            {
+              "id": "6.1",
+              "titulo": "Estructura de la Materia",
+              "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+              "children": [
+                {
+                  "id": "6.1.1",
+                  "titulo": "El Átomo y la Tabla Periódica",
+                  "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+                  "children": [
+                    { "id": "6.1.1.1", "titulo": "Modelos atómicos, partículas subatómicas, número atómico y másico.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2"] },
+                    { "id": "6.1.1.2", "titulo": "Configuración electrónica y diagramas de orbitales (regla de Hund, principio de exclusión de Pauli).", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2"] },
+                    { "id": "6.1.1.3", "titulo": "Propiedades periódicas: electronegatividad, radio atómico, energía de ionización, afinidad electrónica.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] }
+                  ]
+                },
+                {
+                  "id": "6.1.2",
+                  "titulo": "Enlaces Químicos",
+                  "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+                  "children": [
+                    { "id": "6.1.2.1", "titulo": "Enlace iónico, covalente (polar/no polar, dativo) y metálico.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] },
+                    { "id": "6.1.2.2", "titulo": "Geometría molecular (teoría RPECV) y polaridad de moléculas.", "tags": ["UNAM A2", "IPN A2", "UAM A2"] },
+                    { "id": "6.1.2.3", "titulo": "Fuerzas intermoleculares: puentes de hidrógeno, dipolo-dipolo, fuerzas de London (Van der Waals).", "tags": ["UNAM A2", "IPN A2", "UAM A2"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.2",
+              "titulo": "Reacciones y Estequiometría",
+              "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+              "children": [
+                {
+                  "id": "6.2.1",
+                  "titulo": "Lenguaje Químico",
+                  "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+                  "children": [
+                    { "id": "6.2.1.1", "titulo": "Nomenclatura Inorgánica (Stock, tradicional): óxidos, hidróxidos, ácidos, sales.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "EXANI II MOD16"] },
+                    { "id": "6.2.1.2", "titulo": "Balanceo de ecuaciones: tanteo, redox (método del ion-electrón en medio ácido y básico).", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] }
+                  ]
+                },
+                {
+                  "id": "6.2.2",
+                  "titulo": "Cálculos Químicos",
+                  "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"],
+                  "children": [
+                    { "id": "6.2.2.1", "titulo": "Concepto de mol, masa molar, volumen molar (gases) y leyes de los gases (Boyle, Charles, Gay-Lussac, combinada, ideal).", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] },
+                    { "id": "6.2.2.2", "titulo": "Estequiometría: reactivo limitante, rendimiento porcentual y pureza.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "EXANI II MOD16"] },
+                    { "id": "6.2.2.3", "titulo": "Soluciones: concentración (molaridad, molalidad, normalidad, porcentual), dilución.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] },
+                    { "id": "6.2.2.4", "titulo": "Ácidos y Bases: teorías (Arrhenius, Brönsted-Lowry, Lewis), pH, pOH, cálculos de equilibrio ácido-base.", "tags": ["UNAM A2", "IPN A1", "IPN A2", "UAM A1", "UAM A2", "EXANI II MOD16"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "6.3",
+              "titulo": "Química Orgánica",
+              "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD16"],
+              "children": [
+                {
+                  "id": "6.3.1",
+                  "titulo": "Química del Carbono",
+                  "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD16"],
+                  "children": [
+                    { "id": "6.3.1.1", "titulo": "Hibridación (sp³, sp², sp) y tipos de cadena (abierta, cerrada, saturada, insaturada).", "tags": ["UNAM A2", "IPN A2"] },
+                    { "id": "6.3.1.2", "titulo": "Hidrocarburos: Alcanos, Alquenos, Alquinos y Aromáticos (Benceno). Nomenclatura IUPAC.", "tags": ["UNAM A2", "IPN A2", "EXANI II MOD16"] },
+                    { "id": "6.3.1.3", "titulo": "Grupos Funcionales: Alcoholes, Cetonas, Aldehídos, Ácidos Carboxílicos, Ésteres, Aminas, Amidas. Nomenclatura y propiedades.", "tags": ["UNAM A2", "IPN A2", "EXANI II MOD16"] },
+                    { "id": "6.3.1.4", "titulo": "Isomería: estructural (cadena, posición, función) y estereoisomería (cis-trans, óptica).", "tags": ["UNAM A2", "IPN A2", "UAM A2"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "titulo": "Biología",
+          "tags": ["UNAM A2", "IPN A2", "UAM A2", "BUAP A1", "EXANI II MOD03"],
+          "children": [
+            {
+              "id": "7.1",
+              "titulo": "La Célula y Metabolismo",
+              "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+              "children": [
+                {
+                  "id": "7.1.1",
+                  "titulo": "Estructura y Función Celular",
+                  "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+                  "children": [
+                    { "id": "7.1.1.1", "titulo": "Teoría Celular, tipos de células (Procariota vs. Eucariota, Animal vs. Vegetal).", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.1.1.2", "titulo": "Organelos celulares y sus funciones: núcleo, retículo endoplasmático, ribosomas, aparato de Golgi, mitocondrias, cloroplastos, lisosomas, etc.", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.1.1.3", "titulo": "Membrana celular: modelo de mosaico fluido, transporte (difusión, ósmosis, activo).", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.1.1.4", "titulo": "Biomoléculas: Carbohidratos, Lípidos, Proteínas, Ácidos Nucleicos (ADN, ARN).", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] }
+                  ]
+                },
+                {
+                  "id": "7.1.2",
+                  "titulo": "Metabolismo Energético",
+                  "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+                  "children": [
+                    { "id": "7.1.2.1", "titulo": "Anabolismo y Catabolismo, papel del ATP y enzimas.", "tags": ["UNAM A2", "IPN A2"] },
+                    { "id": "7.1.2.2", "titulo": "Fotosíntesis: fases luminosa y oscura (ciclo de Calvin).", "tags": ["UNAM A2", "IPN A2", "EXANI II MOD03"] },
+                    { "id": "7.1.2.3", "titulo": "Respiración Celular: glucólisis, ciclo de Krebs, cadena de transporte de electrones y fosforilación oxidativa.", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.2",
+              "titulo": "Genética y Continuidad de la Vida",
+              "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+              "children": [
+                {
+                  "id": "7.2.1",
+                  "titulo": "Reproducción y Herencia",
+                  "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+                  "children": [
+                    { "id": "7.2.1.1", "titulo": "Ciclo Celular: interfase, mitosis y meiosis.", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.2.1.2", "titulo": "Genética Mendeliana: leyes de Mendel, cuadros de Punnett, dominancia incompleta, codominancia.", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.2.1.3", "titulo": "Genética Molecular: estructura del ADN, replicación, transcripción, traducción (síntesis de proteínas).", "tags": ["UNAM A2", "IPN A2", "UAM A2"] },
+                    { "id": "7.2.1.4", "titulo": "Mutaciones, ingeniería genética (ADN recombinante) y bioética.", "tags": ["UNAM A2", "IPN A2"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "7.3",
+              "titulo": "Evolución y Ecología",
+              "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+              "children": [
+                {
+                  "id": "7.3.1",
+                  "titulo": "Origen y Evolución de las Especies",
+                  "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"],
+                  "children": [
+                    { "id": "7.3.1.1", "titulo": "Teorías del origen de la vida (abiogénesis vs. biogénesis, Oparin-Haldane).", "tags": ["UNAM A2", "IPN A2"] },
+                    { "id": "7.3.1.2", "titulo": "Evidencias de la evolución (fósiles, anatómicas, embriológicas, bioquímicas).", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.3.1.3", "titulo": "Teorías evolutivas: Lamarck, Darwin-Wallace (selección natural), neodarwinismo (síntesis moderna).", "tags": ["UNAM A2", "IPN A2", "UAM A2", "EXANI II MOD03"] },
+                    { "id": "7.3.1.4", "titulo": "Mecanismos de especiación (alopátrica, simpátrica).", "tags": ["UNAM A2", "IPN A2"] }
+                  ]
+                },
+                {
+                  "id": "7.3.2",
+                  "titulo": "Ecología",
+                  "tags": ["UNAM A2", "IPN A2", "EXANI II MOD03"],
+                  "children": [
+                    { "id": "7.3.2.1", "titulo": "Niveles de organización ecológica (individuo, población, comunidad, ecosistema, biósfera).", "tags": ["UNAM A2", "IPN A2", "EXANI II MOD03"] },
+                    { "id": "7.3.2.2", "titulo": "Relaciones intra e interespecíficas (competencia, depredación, simbiosis).", "tags": ["UNAM A2", "IPN A2", "EXANI II MOD03"] },
+                    { "id": "7.3.2.3", "titulo": "Flujo de energía (cadenas y redes tróficas) y ciclos biogeoquímicos (C, N, O, P, S).", "tags": ["UNAM A2", "IPN A2"] },
+                    { "id": "7.3.2.4", "titulo": "Contaminación (agua, aire, suelo), cambio climático y desarrollo sustentable.", "tags": ["UNAM A2", "IPN A2"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloque_4",
+      "nombre": "Bloque IV: Ciencias Sociales y Humanidades",
+      "temas": [
+        {
+          "id": "8",
+          "titulo": "Historia",
+          "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "BUAP A3", "BUAP A4", "EXANI II MOD10"],
+          "children": [
+            {
+              "id": "8.1",
+              "titulo": "Historia Universal",
+              "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+              "children": [
+                {
+                  "id": "8.1.1",
+                  "titulo": "Edad Antigua y Media",
+                  "tags": ["EXANI II MOD10", "UNAM A4"],
+                  "children": [
+                    { "id": "8.1.1.1", "titulo": "Grandes civilizaciones antiguas (Mesopotamia, Egipto, Grecia, Roma).", "tags": ["EXANI II MOD10", "UNAM A4"] },
+                    { "id": "8.1.1.2", "titulo": "Edad Media: feudalismo, imperio bizantino, islam.", "tags": ["EXANI II MOD10", "UNAM A4"] }
+                  ]
+                },
+                {
+                  "id": "8.1.2",
+                  "titulo": "Edad Moderna y Revoluciones",
+                  "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+                  "children": [
+                    { "id": "8.1.2.1", "titulo": "Renacimiento, Reforma Protestante y Contrarreforma.", "tags": ["UNAM A3", "UNAM A4", "EXANI II MOD10"] },
+                    { "id": "8.1.2.2", "titulo": "Absolutismo, Época de los descubrimientos y conquista de América.", "tags": ["UNAM A3", "UNAM A4", "EXANI II MOD10"] },
+                    { "id": "8.1.2.3", "titulo": "Ilustración, Revolución Industrial y Revolución Francesa.", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] }
+                  ]
+                },
+                {
+                  "id": "8.1.3",
+                  "titulo": "Mundo Contemporáneo",
+                  "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+                  "children": [
+                    { "id": "8.1.3.1", "titulo": "Imperialismo y Primera Guerra Mundial.", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "EXANI II MOD10"] },
+                    { "id": "8.1.3.2", "titulo": "Periodo de Entreguerras (Revolución Rusa, Crisis del 29, Totalitarismos).", "tags": ["UNAM A3", "UNAM A4", "IPN A3"] },
+                    { "id": "8.1.3.3", "titulo": "Segunda Guerra Mundial y Guerra Fría (bloques capitalista y socialista).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "EXANI II MOD10"] },
+                    { "id": "8.1.3.4", "titulo": "Caída del Muro de Berlín, globalización y conflictos del siglo XXI.", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "8.2",
+              "titulo": "Historia de México",
+              "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "BUAP A3", "BUAP A4", "EXANI II MOD10"],
+              "children": [
+                {
+                  "id": "8.2.1",
+                  "titulo": "Época Prehispánica y Colonial",
+                  "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+                  "children": [
+                    { "id": "8.2.1.1", "titulo": "Culturas mesoamericanas (Olmeca, Teotihuacana, Maya, Mexica).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] },
+                    { "id": "8.2.1.2", "titulo": "Conquista de Tenochtitlán, organización del Virreinato (encomienda, mestizaje).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] },
+                    { "id": "8.2.1.3", "titulo": "Reformas Borbónicas, causas internas y externas de la Independencia.", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] }
+                  ]
+                },
+                {
+                  "id": "8.2.2",
+                  "titulo": "México Independiente y Siglo XIX",
+                  "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+                  "children": [
+                    { "id": "8.2.2.1", "titulo": "Proceso de Independencia (Hidalgo, Morelos, Iturbide).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "EXANI II MOD10"] },
+                    { "id": "8.2.2.2", "titulo": "Primer Imperio, República, invasiones (EUA, Francia).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] },
+                    { "id": "8.2.2.3", "titulo": "Las Leyes de Reforma, Imperio de Maximiliano, Porfiriato.", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"] }
+                  ]
+                },
+                {
+                  "id": "8.2.3",
+                  "titulo": "México Contemporáneo (Siglo XX-XXI)",
+                  "tags": ["UNAM A3", "UNAM A4", "IPN A3", "UAM A3", "EXANI II MOD10"],
+                  "children": [
+                    { "id": "8.2.3.1", "titulo": "Revolución Mexicana (Maderismo, Zapatismo, Villismo, Constitucionalismo).", "tags": ["UNAM A3", "UNAM A4", "IPN A3", "EXANI II MOD10"] },
+                    { "id": "8.2.3.2", "titulo": "La Constitución de 1917, el Cardenismo y el Milagro Mexicano.", "tags": ["UNAM A3", "UNAM A4", "IPN A3"] },
+                    { "id": "8.2.3.3", "titulo": "Movimientos sociales (estudiantil de 1968, EZLN), neoliberalismo y política reciente.", "tags": ["UNAM A3", "UAM A3"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "titulo": "Literatura y Filosofía",
+          "tags": ["UNAM A4", "UAM A3", "BUAP A3", "BUAP A4", "EXANI II MOD11", "EXANI II MOD08"],
+          "children": [
+            {
+              "id": "9.1",
+              "titulo": "Literatura",
+              "tags": ["UNAM A4", "UAM A3", "EXANI II MOD11"],
+              "children": [
+                {
+                  "id": "9.1.1",
+                  "titulo": "Teoría y Corrientes Literarias",
+                  "tags": ["UNAM A4", "EXANI II MOD11"],
+                  "children": [
+                    { "id": "9.1.1.1", "titulo": "Géneros literarios (Épico/Narrativo, Lírico, Dramático) y subgéneros.", "tags": ["UNAM A4", "EXANI II MOD11"] },
+                    { "id": "9.1.1.2", "titulo": "Figuras retóricas y recursos literarios (metáfora, símil, hipérbole, personificación).", "tags": ["UNAM A4", "EXANI II MOD11"] },
+                    { "id": "9.1.1.3", "titulo": "Corrientes: Renacimiento, Barroco, Neoclasicismo, Romanticismo, Realismo, Naturalismo, Modernismo, Vanguardias.", "tags": ["UNAM A4", "UAM A3", "EXANI II MOD11"] }
+                  ]
+                },
+                {
+                  "id": "9.1.2",
+                  "titulo": "Literatura Hispanoamericana",
+                  "tags": ["UNAM A4", "UAM A3", "BUAP A4"],
+                  "children": [
+                    { "id": "9.1.2.1", "titulo": "Literatura prehispánica y colonial (Sor Juana).", "tags": ["UNAM A4", "UAM A3"] },
+                    { "id": "9.1.2.2", "titulo": "Modernismo (Rubén Darío) y el Boom Latinoamericano (García Márquez, Cortázar, Vargas Llosa).", "tags": ["UNAM A4", "UAM A3"] },
+                    { "id": "9.1.2.3", "titulo": "Literatura mexicana del siglo XX (Octavio Paz, Juan Rulfo, Rosario Castellanos).", "tags": ["UNAM A4", "UAM A3", "BUAP A4"] }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "9.2",
+              "titulo": "Filosofía",
+              "tags": ["UNAM A4", "EXANI II MOD08"],
+              "children": [
+                {
+                  "id": "9.2.1",
+                  "titulo": "Ramas y Escuelas",
+                  "tags": ["UNAM A4", "EXANI II MOD08"],
+                  "children": [
+                    { "id": "9.2.1.1", "titulo": "Ramas principales: Ética, Estética, Ontología, Epistemología, Lógica.", "tags": ["UNAM A4", "EXANI II MOD08"] },
+                    { "id": "9.2.1.2", "titulo": "Filosofía Antigua: Presocráticos, Sócrates, Platón (Teoría de las Ideas), Aristóteles.", "tags": ["UNAM A4", "EXANI II MOD08"] },
+                    { "id": "9.2.1.3", "titulo": "Otras escuelas: Estoicismo, Escepticismo, Epicureísmo.", "tags": ["UNAM A4", "EXANI II MOD08"] },
+                    { "id": "9.2.1.4", "titulo": "Lógica: silogismos categóricos, falacias formales e informales.", "tags": ["UNAM A4"] }
+                  ]
+                },
+                {
+                  "id": "9.2.2",
+                  "titulo": "Historia del Pensamiento",
+                  "tags": ["UNAM A4", "EXANI II MOD08"],
+                  "children": [
+                    { "id": "9.2.2.1", "titulo": "Filosofía Medieval: Agustín de Hipona, Tomás de Aquino (escolástica).", "tags": ["UNAM A4", "EXANI II MOD08"] },
+                    { "id": "9.2.2.2", "titulo": "Filosofía Moderna: René Descartes (racionalismo), John Locke (empirismo), Immanuel Kant.", "tags": ["UNAM A4", "EXANI II MOD08"] },
+                    { "id": "9.2.2.3", "titulo": "Filosofía Contemporánea: Karl Marx, Friedrich Nietzsche, Existencialismo (Sartre).", "tags": ["UNAM A4", "EXANI II MOD08"] }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "titulo": "Geografía y Formación Cívica",
+          "tags": ["UNAM A3", "UAM A3", "BUAP A3"],
+          "children": [
+            {
+              "id": "10.1",
+              "titulo": "Geografía General",
+              "tags": ["UNAM A3", "UAM A3"],
+              "children": [
+                { "id": "10.1.1", "titulo": "Geografía Física: Capas de la Tierra, Tectónica de Placas, relieve, climas y biomas.", "tags": ["UNAM A3"] },
+                { "id": "10.1.2", "titulo": "Geografía Humana: Población (crecimiento, migración), actividades económicas (primaria, secundaria, terciaria), urbanización.", "tags": ["UNAM A3", "UAM A3"] },
+                { "id": "10.1.3", "titulo": "Geografía Política: Fronteras, Estados nacionales, conflictos territoriales y globalización.", "tags": ["UNAM A3"] }
+              ]
+            },
+            {
+              "id": "10.2",
+              "titulo": "Formación Cívica y Ética",
+              "tags": ["UNAM A3", "UAM A3", "BUAP A3"],
+              "children": [
+                { "id": "10.2.1", "titulo": "Estado Mexicano: Formas de gobierno, división de poderes (Ejecutivo, Legislativo, Judicial), federalismo.", "tags": ["UNAM A3", "UAM A3"] },
+                { "id": "10.2.2", "titulo": "Derechos Humanos: Generaciones de derechos, garantías individuales (Constitución).", "tags": ["UNAM A3", "UAM A3"] },
+                { "id": "10.2.3", "titulo": "Valores y Democracia: Participación ciudadana, justicia, equidad, responsabilidad social.", "tags": ["UNAM A3", "UAM A3"] }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bloque_5",
+      "nombre": "Bloque V: Módulos Específicos y Técnicos",
+      "temas": [
+        {
+          "id": "11",
+          "titulo": "Ciencias de la Salud y Premedicina",
+          "tags": ["EXANI II MOD05", "EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"],
+          "children": [
+            {
+              "id": "11.1",
+              "titulo": "Salud Pública y Fundamentos",
+              "tags": ["EXANI II MOD05", "EXANI II MOD13"],
+              "children": [
+                { "id": "11.1.1", "titulo": "Proceso Salud-Enfermedad y determinantes sociales.", "tags": ["EXANI II MOD05", "EXANI II MOD13"] },
+                { "id": "11.1.2", "titulo": "Niveles de atención y prevención (primaria, secundaria, terciaria).", "tags": ["EXANI II MOD13"] },
+                { "id": "11.1.3", "titulo": "Epidemiología básica: triada ecológica (agente, huésped, ambiente).", "tags": ["EXANI II MOD13"] }
+              ]
+            },
+            {
+              "id": "11.2",
+              "titulo": "Anatomía Humana",
+              "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"],
+              "children": [
+                { "id": "11.2.1", "titulo": "Planimetría: planos anatómicos (sagital, frontal, transversal) y terminología (superior/inferior, proximal/distal).", "tags": ["EXANI II MOD13"] },
+                { "id": "11.2.2", "titulo": "Sistema Óseo: Huesos principales del esqueleto axial y apendicular.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.3", "titulo": "Sistema Muscular: Músculos principales y tipos de tejido muscular.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.4", "titulo": "Sistema Nervioso: Encéfalo, médula espinal, sistema nervioso periférico y autónomo.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.5", "titulo": "Sistema Endocrino: Glándulas principales (hipófisis, tiroides, suprarrenales) y hormonas.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.6", "titulo": "Sistema Cardiovascular: Corazón, vasos sanguíneos (arterias, venas, capilares), circulación mayor y menor.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.7", "titulo": "Sistema Respiratorio: Vías respiratorias, pulmones, mecánica ventilatoria.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.8", "titulo": "Sistema Digestivo: Órganos del tracto gastrointestinal y glándulas anexas (hígado, páncreas).", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.9", "titulo": "Sistema Urinario: Riñones, nefrona, vías urinarias.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.2.10", "titulo": "Sistema Reproductor: Órganos masculinos y femeninos.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] }
+              ]
+            },
+            {
+              "id": "11.3",
+              "titulo": "Fisiología Humana",
+              "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"],
+              "children": [
+                { "id": "11.3.1", "titulo": "Homeostasis: Concepto y mecanismos de regulación (retroalimentación negativa y positiva).", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] },
+                { "id": "11.3.2", "titulo": "Fisiología de los sistemas (conceptos básicos): contracción muscular, conducción nerviosa, digestión y absorción, intercambio gaseoso, filtración renal.", "tags": ["EXANI II MOD13", "IPN A2", "UNAM A2", "UAM A2", "BUAP A1"] }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "titulo": "Económico-Administrativas",
+          "tags": ["EXANI II MOD01", "EXANI II MOD07", "EXANI II MOD12", "BUAP A4", "IPN A3", "UAM A3"],
+          "children": [
+            {
+              "id": "12.1",
+              "titulo": "Administración",
+              "tags": ["EXANI II MOD01", "IPN A3", "BUAP A4", "UAM A3"],
+              "children": [
+                { "id": "12.1.1", "titulo": "Proceso Administrativo: Planeación, Organización, Dirección, Control.", "tags": ["EXANI II MOD01", "IPN A3", "BUAP A4", "UAM A3"] },
+                { "id": "12.1.2", "titulo": "Áreas funcionales: Finanzas, Mercadotecnia, Producción, Recursos Humanos.", "tags": ["EXANI II MOD01"] },
+                { "id": "12.1.3", "titulo": "Herramientas de análisis: FODA (Fortalezas, Oportunidades, Debilidades, Amenazas).", "tags": ["EXANI II MOD01"] }
+              ]
+            },
+            {
+              "id": "12.2",
+              "titulo": "Economía",
+              "tags": ["EXANI II MOD07", "BUAP A4", "UAM A3"],
+              "children": [
+                { "id": "12.2.1", "titulo": "Microeconomía: Oferta y demanda, elasticidad, estructuras de mercado (competencia perfecta, monopolio, oligopolio).", "tags": ["EXANI II MOD07", "BUAP A4"] },
+                { "id": "12.2.2", "titulo": "Macroeconomía: Indicadores (PIB, inflación, desempleo), política fiscal y monetaria, Banco de México.", "tags": ["EXANI II MOD07", "BUAP A4"] }
+              ]
+            },
+            {
+              "id": "12.3",
+              "titulo": "Matemáticas Financieras",
+              "tags": ["EXANI II MOD12", "BUAP A4"],
+              "children": [
+                { "id": "12.3.1", "titulo": "Interés: simple y compuesto, tasas (nominal y efectiva).", "tags": ["EXANI II MOD12", "BUAP A4"] },
+                { "id": "12.3.2", "titulo": "Anualidades: valor presente y futuro.", "tags": ["EXANI II MOD12", "BUAP A4"] }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "titulo": "Ciencias Sociales Específicas",
+          "tags": ["EXANI II MOD06", "EXANI II MOD15", "UNAM A2", "UNAM A3", "UAM A3"],
+          "children": [
+            {
+              "id": "13.1",
+              "titulo": "Derecho",
+              "tags": ["EXANI II MOD06", "UNAM A3", "UAM A3"],
+              "children": [
+                { "id": "13.1.1", "titulo": "Conceptos básicos: norma jurídica, derecho objetivo vs. subjetivo, fuentes del derecho.", "tags": ["EXANI II MOD06", "UNAM A3"] },
+                { "id": "13.1.2", "titulo": "Jerarquía de leyes en México (Constitución, leyes federales, tratados).", "tags": ["EXANI II MOD06", "UNAM A3"] },
+                { "id": "13.1.3", "titulo": "Ramas del derecho: Público (constitucional, penal, administrativo), Privado (civil, mercantil), Social (laboral, agrario).", "tags": ["EXANI II MOD06"] }
+              ]
+            },
+            {
+              "id": "13.2",
+              "titulo": "Psicología",
+              "tags": ["EXANI II MOD15", "UNAM A2", "UAM A3"],
+              "children": [
+                { "id": "13.2.1", "titulo": "Fundamentos biológicos: neurona, sinapsis, neurotransmisores, sistema límbico.", "tags": ["EXANI II MOD15", "UNAM A2"] },
+                { "id": "13.2.2", "titulo": "Corrientes psicológicas: Psicoanálisis (Freud), Conductismo (Watson, Skinner), Humanismo (Maslow, Rogers), Cognitivismo.", "tags": ["EXANI II MOD15", "UNAM A2", "UAM A3"] },
+                { "id": "13.2.3", "titulo": "Procesos psicológicos básicos: percepción, aprendizaje, memoria, motivación, emoción.", "tags": ["EXANI II MOD15"] }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "titulo": "Módulos Técnicos y de Diseño",
+          "tags": ["EXANI II MOD14", "UAM A1", "UAM A4", "BUAP A2"],
+          "children": [
+            {
+              "id": "14.1",
+              "titulo": "Probabilidad y Estadística Avanzada",
+              "tags": ["EXANI II MOD14", "IPN A1", "UNAM A1", "UAM A1"],
+              "children": [
+                { "id": "14.1.1", "titulo": "Distribuciones de probabilidad: Binomial, Normal (campana de Gauss), Poisson.", "tags": ["EXANI II MOD14", "IPN A1"] },
+                { "id": "14.1.2", "titulo": "Estadística inferencial: intervalos de confianza, pruebas de hipótesis (chi-cuadrada, t de Student).", "tags": ["EXANI II MOD14"] }
+              ]
+            },
+            {
+              "id": "14.2",
+              "titulo": "Fundamentos de Diseño y Computación",
+              "tags": ["UAM A4", "BUAP A2"],
+              "children": [
+                { "id": "14.2.1", "titulo": "Teoría del color: círculo cromático, propiedades (tono, saturación, valor), armonías.", "tags": ["UAM A4"] },
+                { "id": "14.2.2", "titulo": "Principios de composición: equilibrio, contraste, ritmo, jerarquía visual.", "tags": ["UAM A4"] },
+                { "id": "14.2.3", "titulo": "Dibujo técnico: perspectiva (isométrica, caballera), vistas (alzado, planta, perfil).", "tags": ["UAM A4", "BUAP A2"] },
+                { "id": "14.2.4", "titulo": "Fundamentos de electrónica: componentes básicos (resistencia, capacitor, diodo), ley de Ohm aplicada a circuitos simples.", "tags": ["UAM A1", "BUAP A2"] },
+                { "id": "14.2.5", "titulo": "Lenguajes de programación básicos: Conceptos de algoritmo, variable, estructura de control (condicional, ciclo).", "tags": ["UAM A1", "BUAP A2"] }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
