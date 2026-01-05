@@ -80,7 +80,7 @@ NIVEL	CONTENIDO	TAGS	URL
 2.1.1.4	Propiedades de los números reales (primos,compuestos,teorema fundamental).	[UNAM,IPN,BUAP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
 2.1.2	Razones y Proporciones	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
 2.1.2.1	Porcentajes,descuentos y variación proporcional directa e inversa.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
-2.1.2.2	Regla de tres simple y compuesta.	[UNAM,IPN,UAM,EXANI II MAT,PAA,USEP,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.2.2	Regla de tres simple y compuesta.	[UNAM,IPN,UAM,EXANI II MAT,PAA,USEP,BUAP]	https://simuladores.cepredix.com.mx/2.1.1.2-Jerarquia-de-operaciones.html
 2.1.3	Sucesiones y Series Numéricas	[UNAM,IPN,UAM,EXANI II MAT,BUAP,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
 2.1.3.1	Patrones numéricos,alfanuméricos y de figuras.	[IPN,UAM,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
 2.1.3.2	Sucesiones aritméticas y geométricas.	[IPN,UAM,BUAP,EXANI II MAT]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
