@@ -1,406 +1,405 @@
-NIVEL	CONTENIDO	TAGS
-1	Bloque I: Lengua, Habilidades Lingüísticas y Literatura	[UNAM, IPN, UAM, EXANI II ESP, BUAP, PAA, USEP]
-1.1	Funciones y Formas del Discurso	[UNAM, IPN, PAA]
-1.1.1	Funciones de la lengua	[UNAM, IPN, PAA]
-1.1.1.1	Función referencial, apelativa y poética.	[UNAM, IPN, PAA]
-1.1.1.2	Función fática, metalingüística y emotiva.	[PAA]
-1.1.2	Formas del discurso	[UNAM, IPN]
-1.1.2.1	Discurso descriptivo, narrativo y argumentativo.	[UNAM, IPN]
-1.2	Comprensión de Lectura	[GENERAL]
-1.2.1	Estructura y análisis del texto	[GENERAL]
-1.2.1.1	Identificación de ideas principales y secundarias.	[GENERAL]
-1.2.1.2	Título, introducción, desarrollo y conclusión.	[GENERAL]
-1.2.1.3	Frases clave e inferencia de datos implícitos y explícitos.	[GENERAL]
-1.2.1.4	Intención comunicativa y punto de vista del autor.	[GENERAL]
-1.2.1.5	Relaciones internas: causa-efecto, antecedente-consecuente, oposición.	[UAM, EXANI II ESP, PAA, USEP]
-1.2.1.6	Tono del autor y contexto de la obra.	[PAA, USEP]
-1.2.1.7	Inferencia de rasgos, sentimientos y motivos de los personajes.	[UNAM, IPN, EXANI II ESP]
-1.2.2	Tipología textual (Comprensión)	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP]
-1.2.2.1	Textos periodísticos: noticia, artículo de opinión, crónica (estructura y propósito).	[UNAM, IPN, EXANI II ESP]
-1.2.2.2	Textos dramáticos: organización dialógica, acción, personajes, tragedia y comedia.	[UNAM, EXANI II MOD11]
-1.2.2.3	Textos poéticos: metro, rima, ritmo, análisis intratextual.	[UNAM, IPN, EXANI II MOD11]
-1.2.2.4	Textos expositivos, científicos y argumentativos.	[UNAM, IPN, EXANI II ESP, PAA]
-1.2.3	Interpretación de imágenes y gráficos en textos	[USEP, PAA, BUAP]
-1.2.3.1	Obtención de conclusiones a partir de texto e imagen/mapa/tabla.	[USEP, BUAP]
-1.3	Gramática y Redacción	[GENERAL]
-1.3.1	Morfosintaxis y la Oración	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP]
-1.3.1.1	La oración: sujeto, predicado y sus núcleos.	[UNAM, IPN, UAM, PAA]
-1.3.1.2	Concordancia: nominal (género/número) y verbal (sujeto/verbo).	[UNAM, IPN, UAM, EXANI II ESP, PAA]
-1.3.1.3	Tipos de oraciones: simples, compuestas, coordinadas y subordinadas.	[UAM, PAA]
-1.3.1.4	Uso correcto de nexos, conectores y preposiciones.	[UNAM, IPN, UAM, PAA, EXANI II ESP]
-1.3.1.5	Verbos: tiempos, modos, uso correcto del gerundio y participio.	[UNAM, IPN, UAM, PAA, EXANI II ESP]
-1.3.1.6	Pronombres: personales, posesivos y objeto.	[PAA]
-1.3.2	Ortografía	[GENERAL]
-1.3.2.1	Reglas de acentuación: agudas, graves, esdrújulas, diacríticos y hiatos.	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP]
-1.3.2.2	Puntuación: uso de coma, punto, punto y coma, dos puntos, comillas, paréntesis.	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP]
-1.3.2.3	Uso de grafías: B/V, C/S/Z, G/J, H, LL/Y, R/RR, X.	[UNAM, IPN, UAM, EXANI II ESP, PAA]
-1.3.2.4	Uso de mayúsculas y minúsculas.	[UNAM, IPN, UAM, EXANI II ESP, PAA]
-1.3.3	Vicios del lenguaje y corrección de estilo	[UNAM, IPN, UAM, PAA]
-1.3.3.1	Barbarismos, solecismos, cacofonías, anfibologías, redundancias.	[IPN, PAA]
-1.3.3.2	Pobreza de vocabulario y queísmo/dequeísmo.	[IPN]
-1.3.3.3	Coherencia y cohesión textual (unidad temática, eliminación de ambigüedades).	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP]
-1.4	Léxico, Semántica y Razonamiento Verbal	[UNAM, IPN, UAM, EXANI II ESP, BUAP, PAA, USEP]
-1.4.1	Relaciones semánticas	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP, USEP]
-1.4.1.1	Sinónimos y antónimos en contexto.	[UNAM, IPN, UAM, EXANI II ESP, PAA, BUAP, USEP]
-1.4.1.2	Homófonos y homónimos.	[UNAM, IPN, BUAP]
-1.4.1.3	Parónimos y polisemia.	[UNAM]
-1.4.1.4	Campos semánticos.	[UAM, PAA]
-1.4.2	Analogías y Lógica Verbal	[UNAM, UAM, PAA, USEP]
-1.4.2.1	Analogías verbales: causa-efecto, parte-todo, género-especie, oposición.	[UNAM, UAM, PAA, USEP]
-1.4.2.2	Completamiento de oraciones y frases (coherencia léxica).	[UAM, PAA]
-1.4.2.3	Silogismos y premisas: identificación y construcción de conclusiones lógicas.	[USEP, UAM A3, UAM A4]
-1.4.2.4	Decodificación de mensajes y códigos.	[USEP]
-1.4.3	Etimologías grecolatinas	[UAM]
-1.4.3.1	Raíces, prefijos y sufijos de origen griego y latino.	[UAM]
-1.5	Literatura (Teoría, Historia y Análisis)	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.1	Teoría Literaria	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.1.1	Propiedades del texto literario: función poética, adecuación, cabalidad.	[UNAM]
-1.5.1.2	Géneros literarios: Épico/Narrativo, Lírico, Dramático, Didáctico/Ensayo.	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.1.3	Figuras retóricas: metáfora, símil, hipérbole, personificación, paradoja, aliteración, sinestesia.	[UNAM, IPN, UAM, EXANI II MOD11, PAA, BUAP]
-1.5.1.4	Corrientes literarias: definición y características generales.	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.2	Historia de la Literatura Universal	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.2.1	Antigüedad y Edad Media: Épica griega, Teatro griego, Feudalismo.	[UNAM, EXANI II MOD11, UAM A3]
-1.5.2.2	Renacimiento, Siglo de Oro y Neoclasicismo.	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.2.3	Romanticismo, Realismo y Naturalismo.	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.2.4	Modernismo y Vanguardias (Futurismo, Dadaísmo, Surrealismo, Cubismo).	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.2.5	Literatura Contemporánea: Generación del 98, Boom Latinoamericano.	[UNAM, EXANI II MOD11, UAM A3]
-1.5.3	Literatura Hispanoamericana y Mexicana	[UNAM, EXANI II MOD11, UAM A3, BUAP]
-1.5.3.1	Literatura prehispánica (Nezahualcóyotl) y Cronistas de Indias.	[UNAM, UAM A3, EXANI II MOD11]
-1.5.3.2	Barroco novohispano (Sor Juana Inés de la Cruz).	[UNAM, UAM A3]
-1.5.3.3	Literatura Mexicana S. XIX y XX: Octavio Paz, Juan Rulfo, Rosario Castellanos.	[UNAM, UAM A3, BUAP]
-1.5.3.4	Autores representativos latinoamericanos: García Márquez, Cortázar, Vargas Llosa, Borges.	[UNAM, UAM A3, EXANI II MOD11]
-1.5.4	Redacción y técnicas de investigación documental	[UNAM, IPN, BUAP]
-1.5.4.1	Fichas bibliográficas, hemerográficas y de trabajo.	[UNAM, IPN, BUAP]
-1.5.4.2	Resumen, paráfrasis, cita textual y referencias (APA).	[UNAM, IPN, BUAP]
-2	Bloque II: Matemáticas	[GENERAL]
-2.1	Pensamiento Matemático y Aritmética	[GENERAL]
-2.1.1	Números Reales y Operaciones Básicas	[GENERAL]
-2.1.1.1	Suma, resta, multiplicación y división con enteros, decimales y fracciones.	[GENERAL]
-2.1.1.2	Jerarquía de operaciones (agrupación y signos).	[GENERAL]
-2.1.1.3	Mínimo Común Múltiplo (mcm) y Máximo Común Divisor (MCD).	[GENERAL]
-2.1.1.4	Propiedades de los números reales (primos, compuestos, teorema fundamental).	[UNAM, IPN, BUAP, PAA]
-2.1.2	Razones y Proporciones	[GENERAL]
-2.1.2.1	Porcentajes, descuentos y variación proporcional directa e inversa.	[GENERAL]
-2.1.2.2	Regla de tres simple y compuesta.	[UNAM, IPN, UAM, EXANI II MAT, PAA, USEP, BUAP]
-2.1.3	Sucesiones y Series Numéricas	[UNAM, IPN, UAM, EXANI II MAT, BUAP, USEP]
-2.1.3.1	Patrones numéricos, alfanuméricos y de figuras.	[IPN, UAM, USEP]
-2.1.3.2	Sucesiones aritméticas y geométricas.	[IPN, UAM, BUAP, EXANI II MAT]
-2.1.4	Números Complejos	[UNAM A1, UNAM A2, IPN A1]
-2.1.4.1	Operaciones básicas con números complejos (forma binómica).	[UNAM A1, UNAM A2, IPN A1]
-2.2	Álgebra	[GENERAL]
-2.2.1	Fundamentos Algebraicos	[GENERAL]
-2.2.1.1	Lenguaje algebraico: traducción de enunciados.	[GENERAL]
-2.2.1.2	Leyes de los exponentes y radicales (racionalización).	[GENERAL]
-2.2.1.3	Operaciones con polinomios: suma, resta, producto y división.	[GENERAL]
-2.2.2	Productos Notables y Factorización	[GENERAL]
-2.2.2.1	Binomio al cuadrado, conjugados, con término común, cubo de un binomio.	[GENERAL]
-2.2.2.2	Binomio de Newton (Teorema del residuo y del factor).	[UNAM A1, UNAM A2, IPN A1]
-2.2.2.3	Factorización: factor común, diferencia de cuadrados, trinomios.	[GENERAL]
-2.2.2.4	Simplificación y operaciones con fracciones algebraicas.	[UNAM, IPN, UAM]
-2.2.3	Ecuaciones y Desigualdades	[GENERAL]
-2.2.3.1	Ecuaciones de primer grado (lineales) con una incógnita.	[GENERAL]
-2.2.3.2	Sistemas de ecuaciones lineales (2x2 y 3x3): métodos de solución (Cramer, etc.).	[GENERAL]
-2.2.3.3	Ecuaciones de segundo grado: fórmula general y factorización.	[GENERAL]
-2.2.3.4	Desigualdades (inecuaciones) lineales y cuadráticas.	[UNAM, IPN, UAM, EXANI II MAT, BUAP, PAA]
-2.3	Geometría Euclidiana y Trigonometría	[GENERAL]
-2.3.1	Geometría Plana	[GENERAL]
-2.3.1.1	Ángulos: clasificación, conversión (grados/radianes), entre paralelas.	[GENERAL]
-2.3.1.2	Triángulos: semejanza (Tales), congruencia, Teorema de Pitágoras.	[GENERAL]
-2.3.1.3	Polígonos y Círculo: perímetros, áreas, propiedades.	[GENERAL]
-2.3.1.4	Cuerpos geométricos (Volumen y área superficial).	[UNAM, IPN, UAM A1, UAM A2, PAA, USEP]
-2.3.2	Trigonometría	[UNAM, IPN, UAM A1, UAM A2, EXANI II MAT, PAA, BUAP A1, BUAP A2, USEP]
-2.3.2.1	Razones trigonométricas (seno, coseno, tangente) en triángulos rectángulos.	[GENERAL]
-2.3.2.2	Círculo trigonométrico y funciones en cualquier cuadrante.	[UNAM, IPN, UAM A1, UAM A2, BUAP A2]
-2.3.2.3	Ley de Senos y Ley de Cosenos (triángulos oblicuángulos).	[UNAM, IPN, UAM, USEP]
-2.3.2.4	Identidades trigonométricas fundamentales.	[UNAM, IPN, UAM A1, UAM A2, BUAP A2]
-2.4	Geometría Analítica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA]
-2.4.1	Conceptos Básicos y Recta	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA]
-2.4.1.1	Plano cartesiano, distancia entre dos puntos y punto medio.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA, USEP]
-2.4.1.2	División de un segmento en una razón dada.	[UNAM, IPN, UAM A1, UAM A2]
-2.4.1.3	La Recta: pendiente, ángulo de inclinación, condiciones de paralelismo/perpendicularidad.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA, USEP]
-2.4.1.4	Ecuaciones de la recta (general, punto-pendiente, simétrica).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA, USEP]
-2.4.2	Cónicas	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2]
-2.4.2.1	La Circunferencia: ecuaciones (ordinaria, general) y elementos.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2]
-2.4.2.2	La Parábola: ecuaciones, vértice, foco, directriz.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2]
-2.4.2.3	La Elipse: ecuaciones, focos, ejes.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2]
-2.4.2.4	La Hipérbola: ecuaciones y asíntotas.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2]
-2.4.2.5	Ecuación general de segundo grado (identificación de cónicas).	[UNAM, IPN, UAM A1, UAM A2]
-2.5	Funciones	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA]
-2.5.1	Análisis de Funciones	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04]
-2.5.1.1	Definición, dominio, contradominio (rango) y gráfica.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04]
-2.5.1.2	Funciones algebraicas (lineales, cuadráticas) y trascendentes (exponenciales, logarítmicas).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD04, BUAP A1, BUAP A2, PAA]
-2.5.1.3	Operaciones con funciones y composición.	[UNAM, IPN, UAM A1, UAM A2]
-2.5.1.4	Funciones implícitas, explícitas, crecientes, decrecientes, continuas, discontinuas.	[UNAM]
-2.6	Cálculo Diferencial e Integral	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04, BUAP A2]
-2.6.1	Límites y Continuidad	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04, BUAP A2]
-2.6.1.1	Definición y teoremas de límites (laterales, al infinito).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.1.2	Cálculo de límites (formas indeterminadas).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2]
-2.6.1.3	Continuidad de una función.	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.2	La Derivada	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04, BUAP A2]
-2.6.2.1	Definición e interpretación geométrica (pendiente de la tangente).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.2.2	Reglas de derivación (algebraicas, cadena, potencia, producto, cociente).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.2.3	Derivadas de funciones trascendentes (trigonométricas, exponenciales, logarítmicas).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.2.4	Derivadas implícitas y de orden superior.	[UNAM A1, UNAM A2, IPN A1, IPN A2]
-2.6.2.5	Aplicaciones de la derivada: máximos, mínimos, puntos de inflexión, velocidad/aceleración.	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04, BUAP A2]
-2.6.3	La Integral	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.3.1	Integral indefinida (antiderivada) y constante de integración.	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.3.2	Fórmulas básicas y métodos (cambio de variable, por partes, fracciones parciales).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.6.3.3	Integral definida, Teorema Fundamental y cálculo de áreas (bajo la curva).	[UNAM A1, UNAM A2, IPN A1, IPN A2, UAM A1, UAM A2, EXANI II MOD04]
-2.7	Probabilidad y Estadística	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.1	Estadística Descriptiva	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.1.1	Tablas de frecuencias y representaciones gráficas (barras, histogramas, circulares).	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.1.2	Medidas de tendencia central: media, mediana, moda.	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.1.3	Medidas de dispersión: rango, varianza, desviación estándar.	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.1.4	Medidas de posición: deciles, cuartiles, percentiles.	[IPN, EXANI II MOD14, USEP]
-2.7.2	Probabilidad	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.2.1	Conceptos básicos: espacio muestral, eventos, teoría de conjuntos.	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, USEP]
-2.7.2.2	Probabilidad clásica (Laplace) y de eventos simples.	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP, PAA, USEP]
-2.7.2.3	Técnicas de conteo (permutaciones, combinaciones).	[IPN, UAM A2, UAM A3, EXANI II MOD14, BUAP]
-2.7.2.4	Probabilidad condicional, eventos independientes y Teorema de Bayes.	[IPN, EXANI II MOD14, BUAP]
-2.7.2.5	Distribuciones de probabilidad (Binomial, Normal, Poisson).	[EXANI II MOD14]
-2.8	Matemáticas Financieras	[EXANI II MOD12, BUAP A4]
-2.8.1	Fundamentos Financieros	[EXANI II MOD12, BUAP A4]
-2.8.1.1	Porcentajes, descuentos, razones y proporciones financieras.	[EXANI II MOD12, BUAP A4]
-2.8.1.2	Interés simple y compuesto.	[EXANI II MOD12, BUAP A4]
-2.8.1.3	Anualidades, amortización, valor presente y futuro.	[EXANI II MOD12, BUAP A4]
-3	Bloque III: Ciencias Experimentales y de la Salud	[UNAM, IPN, UAM, EXANI II MOD09, EXANI II MOD16, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.1	Física	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.1	Fundamentos y Medición	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.1.1	Magnitudes físicas, sistemas de unidades (SI) y conversión.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.1.2	Análisis dimensional, notación científica y errores de medición.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.1.3	Vectores: características, suma, resta y descomposición.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.2	Mecánica Clásica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.2.1	Cinemática: MRU, MRUA, Caída Libre y Tiro Vertical.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.2.2	Movimiento en dos dimensiones: Tiro Parabólico y Movimiento Circular.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.2.3	Dinámica: Leyes de Newton, Diagrama de Cuerpo Libre, Fricción.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.2.4	Estática: Equilibrio de fuerzas y momento de una fuerza (Torque).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.2.5	Ley de Gravitación Universal y Leyes de Kepler.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.2.6	Trabajo, Potencia y Energía (Cinética, Potencial, Conservación).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.2.7	Impulso y Cantidad de Movimiento (Choques).	[UNAM, IPN A1, EXANI II MOD09]
-3.1.3	Propiedades de la Materia y Fluidos	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.3.1	Elasticidad: Ley de Hooke y Módulo de Young.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.3.2	Hidrostática: Densidad, Presión, Principio de Pascal y Arquímedes.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.3.3	Hidrodinámica: Gasto, Ecuación de Continuidad y Bernoulli.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.3.4	Tensión superficial y capilaridad.	[UNAM, IPN]
-3.1.4	Termodinámica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.4.1	Temperatura, escalas termométricas y dilatación.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.4.2	Calor: capacidad calorífica, calor específico y latente.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.4.3	Transmisión de calor (conducción, convección, radiación).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.4.4	Leyes de la Termodinámica (Cero, 1ª y 2ª) y procesos termodinámicos.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.4.5	Teoría Cinética de los Gases y Leyes de los Gases ideales.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.5	Ondas y Óptica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.5.1	Movimiento Ondulatorio: características, reflexión, refracción, difracción, interferencia.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.5.2	Acústica: sonido, velocidad, Efecto Doppler.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.5.3	Óptica Geométrica: reflexión, refracción (Ley de Snell), espejos y lentes.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.5.4	Espectro electromagnético y naturaleza de la luz.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.6	Electricidad y Magnetismo	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.6.1	Electrostática: Carga, Ley de Coulomb, Campo y Potencial Eléctrico.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.6.2	Electrodinámica: Corriente, Resistencia, Ley de Ohm y Circuitos (Serie/Paralelo/Mixto).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.6.3	Leyes de Kirchhoff y Potencia eléctrica (Joule).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2, USEP]
-3.1.6.4	Magnetismo: campo magnético, inducción, Leyes de Faraday, Ampere, Lenz.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.6.5	Capacitancia y condensadores.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD09, BUAP A1, BUAP A2]
-3.1.7	Física Moderna	[UNAM, IPN, EXANI II MOD09]
-3.1.7.1	Estructura atómica, modelos y dualidad onda-partícula.	[UNAM, IPN]
-3.1.7.2	Física Nuclear: radiactividad, fisión y fusión.	[UNAM, IPN]
-3.2	Química	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.1	Materia y Estructura Atómica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.1.1	Sustancias puras, mezclas y métodos de separación.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.1.2	Estructura atómica: partículas subatómicas, número atómico y másico, isótopos.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.1.3	Configuración electrónica y Números Cuánticos.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.1.4	Tabla Periódica: clasificación, familias y propiedades periódicas.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.2	Enlaces Químicos y Nomenclatura	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.2.1	Tipos de enlace: iónico, covalente (polar/no polar), metálico.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.2.2	Estructuras de Lewis y Regla del Octeto.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.2.3	Nomenclatura Inorgánica (IUPAC, Stock, Tradicional): óxidos, ácidos, bases, sales.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.3	Reacciones Químicas y Estequiometría	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.3.1	Tipos de reacciones y balanceo de ecuaciones (tanteo, Redox).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.3.2	Concepto de Mol, Masa Molar y Leyes Ponderales.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.3.3	Estequiometría: reactivo limitante, rendimiento y pureza.	[IPN, UAM A1, UAM A2, EXANI II MOD16]
-3.2.3.4	Soluciones: concentración (Molaridad, %, ppm) y preparación.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.3.5	Ácidos y Bases: teorías, pH, pOH y neutralización.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.4	Fisicoquímica (Termo y Electro)	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.4.1	Termoquímica: Entalpía, reacciones exo/endotérmicas, Ley de Hess.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.4.2	Cinética y Equilibrio Químico (Le Châtelier).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.4.3	Electroquímica: Celdas galvánicas y electrolíticas.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.5	Química Orgánica	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.5.1	El Carbono: hibridación, tipos de cadena e isomería.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.5.2	Hidrocarburos: Alcanos, Alquenos, Alquinos, Aromáticos (Nomenclatura y reacciones).	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.5.3	Grupos Funcionales: Alcoholes, Éteres, Aldehídos, Cetonas, Ácidos, Ésteres, Aminas.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2]
-3.2.5.4	Macromoléculas y Polímeros.	[IPN, EXANI II MOD16]
-3.2.6	Química y Entorno	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.2.6.1	Química del agua, aire (contaminación) y alimentos.	[UNAM, IPN, UAM A1, UAM A2, EXANI II MOD16, BUAP A1, BUAP A2, USEP]
-3.3	Biología	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.1	Fundamentos de Biología	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.1.1	Niveles de organización de la materia viva.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.1.2	Características de los seres vivos y método científico en biología.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.1.3	Biomoléculas: Carbohidratos, Lípidos, Proteínas, Ácidos Nucleicos.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.1.4	Origen de la vida: Teorías (Quimiosintética, Panspermia, etc.).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.2	Biología Celular	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.2.1	Teoría Celular y tipos de células (Procariota/Eucariota).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.2.2	Estructura y función de los organelos celulares.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.2.3	Transporte celular y membrana.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.3	Metabolismo y Energía	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.3.1	Anabolismo y Catabolismo (ATP y Enzimas).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.3.2	Fotosíntesis (Fases e importancia).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.3.3	Respiración Celular: Aerobia (Glucólisis, Krebs) y Anaerobia (Fermentación).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.4	Genética y Reproducción	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.4.1	Ciclo Celular: Mitosis y Meiosis.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.4.2	Reproducción Sexual y Asexual.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.4.3	Genética Mendeliana y patrones de herencia.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.4.4	Genética Molecular (ADN, ARN, Síntesis de proteínas) y Mutaciones.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.4.5	Biotecnología e Ingeniería Genética.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.5	Evolución y Biodiversidad	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.5.1	Teorías Evolutivas: Lamarck, Darwin-Wallace, Sintética.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.5.2	Evidencias de la evolución y Especiación.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.5.3	Taxonomía: Clasificación de los 5 Reinos y 3 Dominios.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.5.4	Diversidad biológica en México (Megadiverso).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.6	Ecología	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.6.1	Estructura del ecosistema (factores bióticos/abióticos) y dinámica (cadenas tróficas).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.6.2	Ciclos Biogeoquímicos (Agua, Carbono, Nitrógeno).	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.3.6.3	Relaciones interespecíficas e intraespecíficas.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1]
-3.3.6.4	Impacto ambiental y contaminación.	[UNAM, IPN, UAM A2, EXANI II MOD03, BUAP A1, USEP]
-3.4	Ciencias de la Salud y Anatomía Humana	[EXANI II MOD05, EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.1	Salud Pública y Propedéutica	[EXANI II MOD05, EXANI II MOD13, EXANI II MOD05, USEP]
-3.4.1.1	Proceso Salud-Enfermedad, Triada Ecológica e Historia Natural de la Enfermedad.	[EXANI II MOD05, EXANI II MOD13, EXANI II MOD05, USEP]
-3.4.1.2	Niveles de prevención y atención médica.	[EXANI II MOD13, EXANI II MOD05]
-3.4.1.3	Terminología médica (planimetría, raíces, prefijos).	[EXANI II MOD13, EXANI II MOD05, IPN A2, USEP]
-3.4.1.4	Signos vitales y somatometría.	[EXANI II MOD13, EXANI II MOD05]
-3.4.2	Anatomía y Fisiología por Sistemas	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.1	Sistema Tegumentario y Musculoesquelético (Huesos, Músculos, Piel).	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP]
-3.4.2.2	Sistema Nervioso (Central y Periférico) y Órganos de los Sentidos.	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.3	Sistema Endocrino (Glándulas y Hormonas).	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.4	Sistema Cardiovascular (Corazón, Vasos, Sangre) y Linfático.	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.5	Aparato Respiratorio y Digestivo (Nutrición y Metabolismo).	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.6	Aparato Urinario y Reproductor (Femenino/Masculino).	[EXANI II MOD13, EXANI II MOD05, IPN A2, UAM A2, USEP, BUAP A1]
-3.4.2.7	Homeostasis y mecanismos de regulación.	[EXANI II MOD13, EXANI II MOD05, USEP]
-3.4.3	Farmacología y Recursos Medicinales	[EXANI II MOD13, EXANI II MOD05, USEP]
-3.4.3.1	Nociones de Farmacología.	[EXANI II MOD13, EXANI II MOD05]
-3.4.3.2	Uso medicinal de las plantas (Herbolaria).	[USEP]
-4	Bloque IV: Ciencias Sociales y Humanidades	[IPN, UAM A3, UAM A4, EXANI II MOD10, EXANI II MOD08, EXANI II MOD06, EXANI II MOD07, EXANI II MOD15, BUAP A3, BUAP A4]
-4.1	Historia Universal	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.1	Introducción a la Historia	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.1.1	Definición, utilidad, fuentes y periodización de la Historia.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.1.2	Corrientes de interpretación histórica (Positivismo, Materialismo Histórico, Escuela de los Annales).	[IPN, BUAP A3]
-4.1.2	De la Antigüedad a la Edad Moderna	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.2.1	Civilizaciones Antiguas (Grecia y Roma) y Edad Media (Feudalismo).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.2.2	Renacimiento, Humanismo y la expansión colonial (Descubrimientos geográficos).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.2.3	La Ilustración y el Enciclopedismo.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3	Revoluciones Burguesas y Siglo XIX	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3.1	Independencia de las Trece Colonias y Revolución Francesa (Imperio Napoleónico).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3.2	Revolución Industrial (etapas y consecuencias sociales).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3.3	Liberalismo, Nacionalismo y movimientos obreros del siglo XIX.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3.4	Independencia de Hispanoamérica.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.3.5	Imperialismo y expansión colonial (1870-1914).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4	Mundo Contemporáneo (Siglo XX y XXI)	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4.1	Primera Guerra Mundial y Revolución Rusa.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4.2	Periodo de Entreguerras: Crisis de 1929 y Regímenes Totalitarios (Fascismo, Nazismo).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4.3	Segunda Guerra Mundial (Causas, desarrollo y consecuencias).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4.4	Guerra Fría: Bloques de poder, descolonización de Asia y África.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.1.4.5	Caída del bloque soviético, Globalización y Neoliberalismo.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2	Historia de México	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.1	México Antiguo y Colonial	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.1.1	Mesoamérica: áreas culturales, horizontes y principales civilizaciones (Olmeca, Maya, Mexica).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.1.2	Conquista militar y espiritual.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.1.3	El Virreinato: organización política, económica, social y Reformas Borbónicas.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2	México Independiente (Siglo XIX)	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2.1	Independencia de México: causas, etapas (Hidalgo, Morelos, Consumación).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2.2	Primeros proyectos de nación (Monarquía vs República, Federalismo vs Centralismo).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2.3	Conflictos internacionales (Texas, Guerra con EUA, Intervención Francesa).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2.4	Reforma Liberal (Leyes de Reforma, Constitución 1857) y República Restaurada.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.2.5	El Porfiriato: características políticas, económicas, sociales y culturales.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3	México Contemporáneo (Siglo XX y XXI)	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3.1	Revolución Mexicana: Maderismo, Constitucionalismo, Zapatismo, Villismo, Constitución de 1917.	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3.2	Reconstrucción Nacional y Caudillismo (Obregón, Calles, Maximato).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3.3	Cardenismo (Plan Sexenal, Expropiación petrolera, corporativismo).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3.4	Milagro Mexicano y Desarrollo Estabilizador (1940-1970).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.2.3.5	Crisis del sistema, Neoliberalismo, Tecnócratas y Globalización (1982-Actualidad).	[UNAM, IPN, UAM A3, EXANI II MOD10, BUAP A3]
-4.3	Geografía	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.1	Geografía Física	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.1.1	La Tierra en el universo: movimientos, coordenadas geográficas y husos horarios.	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.1.2	Litósfera: tectónica de placas, sismicidad, vulcanismo y relieve (México y mundo).	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.1.3	Hidrósfera: ciclo del agua, ríos, lagos y océanos (recursos hídricos).	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.1.4	Atmósfera: clima, elementos y factores del clima, regiones naturales y biodiversidad.	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.2	Geografía Humana y Económica	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.2.1	Población: crecimiento, distribución, indicadores demográficos y migración.	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.2.2	Actividades económicas: regiones agrícolas, ganaderas, industriales y comerciales.	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.2.3	Geografía Política: fronteras, división política de México y conflictos internacionales.	[UNAM, IPN, UAM A3, BUAP A3]
-4.3.2.4	Deterioro ambiental, cambio climático y desarrollo sustentable.	[UNAM, IPN, UAM A2, UAM A3, BUAP A3]
-4.4	Filosofía	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.1	Introducción y Problemas Filosóficos	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.1.1	Definición, disciplinas (Ética, Estética, Ontología, Epistemología, Lógica) y problemas fundamentales.	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.1.2	Lógica: tipos de lenguaje, argumentos, falacias y silogismos.	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.1.3	Ética y Moral: valores, responsabilidad, libertad, autonomía.	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3, BUAP A4]
-4.4.2	Historia de la Filosofía	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.2.1	Filosofía Antigua: Presocráticos, Sofistas, Sócrates, Platón, Aristóteles.	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.2.2	Filosofía Medieval: Patrística (San Agustín) y Escolástica (Sto. Tomás).	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.2.3	Filosofía Moderna: Racionalismo (Descartes), Empirismo (Hume/Locke), Idealismo (Kant/Hegel).	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.2.4	Filosofía Contemporánea: Marxismo, Existencialismo, Positivismo.	[UNAM A4, EXANI II MOD08, UAM A3, BUAP A3]
-4.4.2.5	Filosofía Mexicana y pensamiento latinoamericano.	[EXANI II MOD08, UAM A3, BUAP A3]
-4.5	Formación Cívica, Política y Derecho	[UNAM, IPN, UAM A3, EXANI II MOD06, BUAP A3, BUAP A4]
-4.5.1	Estructura Socioeconómica y Política de México	[UNAM, IPN, UAM A3, BUAP A3, BUAP A4]
-4.5.1.1	El Estado Mexicano: división de poderes (Ejecutivo, Legislativo, Judicial).	[UNAM, IPN, UAM A3, BUAP A3, BUAP A4]
-4.5.1.2	Partidos políticos, sistema electoral y participación ciudadana.	[UNAM, IPN, UAM A3, BUAP A3, BUAP A4]
-4.5.1.3	Modelos económicos en México y su impacto social.	[UNAM, IPN, UAM A3, BUAP A3, BUAP A4]
-4.5.2	Derecho y Normatividad	[UNAM A3, IPN, UAM A3, EXANI II MOD06, BUAP A4]
-4.5.2.1	Concepto de norma, ley y fuentes del Derecho.	[UNAM A3, IPN, UAM A3, EXANI II MOD06, BUAP A4]
-4.5.2.2	Constitución Política de los Estados Unidos Mexicanos (Garantías individuales y Derechos Humanos).	[UNAM, IPN, UAM A3, EXANI II MOD06, BUAP A3, BUAP A4]
-4.5.2.3	Ramas del Derecho: Público, Privado y Social (Laboral, Civil, Penal, Agrario).	[UNAM A3, IPN, UAM A3, EXANI II MOD06, BUAP A4]
-4.6	Disciplinas Sociales Específicas	[EXANI II MOD01, EXANI II MOD06, EXANI II MOD07, EXANI II MOD15, BUAP A3, BUAP A4, UAM A3, IPN A3]
-4.6.1	Economía (Teoría)	[EXANI II MOD07, BUAP A3, BUAP A4, IPN A3]
-4.6.1.1	Principios: escasez, necesidades, microeconomía vs macroeconomía.	[EXANI II MOD07, BUAP A3, BUAP A4, IPN A3]
-4.6.1.2	Oferta, demanda y mercado.	[EXANI II MOD07, BUAP A3, BUAP A4, IPN A3]
-4.6.1.3	Indicadores macroeconómicos: PIB, inflación, desempleo.	[EXANI II MOD07, BUAP A3, BUAP A4, IPN A3]
-4.6.2	Administración	[EXANI II MOD01, BUAP A4, IPN A3]
-4.6.2.1	Proceso administrativo: Planeación, Organización, Dirección, Control.	[EXANI II MOD01, BUAP A4, IPN A3]
-4.6.2.2	Áreas funcionales de la empresa y emprendimiento.	[EXANI II MOD01, BUAP A4, IPN A3]
-4.6.3	Psicología (Ciencias Sociales)	[EXANI II MOD15, BUAP A1]
-4.6.3.1	Bases biológicas de la conducta y procesos psicológicos (percepción, memoria, aprendizaje).	[EXANI II MOD15, BUAP A1]
-4.6.3.2	Teorías de la personalidad y corrientes psicológicas.	[EXANI II MOD15, BUAP A1]
-4.6.4	Pedagogía	[BUAP A3]
-4.6.4.1	Conceptos de pedagogía, didáctica y corrientes educativas.	[BUAP A3]
-5	Bloque V: Módulos Técnicos, TICs, Inglés e Investigación	[IPN, EXANI II ENG, PAA, USEP, BUAP, UAM A4]
-5.1	Inglés (Lengua Extranjera)	[IPN,EXANI II ENG, PAA, USEP]
-5.1.1	Comprensión Lectora (Reading)	[IPN,EXANI II ENG, PAA, USEP]
-5.1.1.1	Identificación de ideas principales, detalles específicos y propósito del texto.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.1.2	Inferencia de significado por contexto y lenguaje figurativo.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.1.3	Tipos de texto: anuncios, correos, noticias, instrucciones y textos breves.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.2	Gramática y Uso de la Lengua (Use of English)	[IPN,EXANI II ENG, PAA, USEP]
-5.1.2.1	Tiempos verbales: Presente (Simple/Continuo), Pasado (Simple), Futuro (Planes).	[IPN,EXANI II ENG, PAA, USEP]
-5.1.2.2	Estructuras básicas: Comparativos, superlativos, auxiliares (do/does/did).	[IPN,EXANI II ENG, PAA, USEP]
-5.1.2.3	Pronombres, preposiciones, conectores y concordancia.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.3	Vocabulario y Contextos Comunicativos	[IPN,EXANI II ENG, PAA, USEP]
-5.1.3.1	Información personal, familia, rutinas y descripción de personas.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.3.2	Entornos cotidianos: Compras, Restaurantes, Trabajo, Escuela, Vacaciones.	[IPN,EXANI II ENG, PAA, USEP]
-5.1.3.3	Salud, deportes y fenómenos naturales.	[IPN,EXANI II ENG, PAA, USEP]
-5.2	Tecnologías de la Información y Comunicación (TICs)	[USEP, BUAP]
-5.2.1	Software de Oficina y Productividad	[USEP]
-5.2.1.1	Procesadores de Texto: edición, formato, tablas.	[USEP]
-5.2.1.2	Hojas de Cálculo: fórmulas, funciones, filtros y gráficos.	[USEP]
-5.2.1.3	Presentadores electrónicos y edición básica (video/sonido).	[USEP]
-5.2.2	Pensamiento Computacional	[USEP]
-5.2.2.1	Algoritmos: concepto, características y expresión narrativa.	[USEP]
-5.2.2.2	Diagramas de flujo: simbología y elaboración.	[USEP]
-5.2.3	Ciudadanía Digital e Internet	[USEP, BUAP]
-5.2.3.1	Navegación, buscadores y correo electrónico.	[USEP]
-5.2.3.2	Seguridad digital: sitios confiables vs plagio/información falsa.	[USEP]
-5.2.3.3	Redes sociales y comunicación en grupos digitales.	[USEP]
-5.3	Diseño, Artes y Razonamiento Visuoespacial	[UAM A4, USEP, BUAP A3]
-5.3.1	Razonamiento Visuoespacial y Abstracto	[UAM A4, USEP]
-5.3.1.1	Visualización y Rotación mental de figuras (2D y 3D).	[UAM A4, USEP]
-5.3.1.2	Desarrollos planos de sólidos (dobleces, armar cubos/figuras).	[UAM A4, USEP]
-5.3.1.3	Conteo de figuras, vistas, cortes y proyecciones (ortogonal, isométrica).	[UAM A4, USEP]
-5.3.1.4	Identificación de patrones, sombras y reflejos.	[USEP]
-5.3.2	Fundamentos de Dibujo y Diseño	[UAM A4]
-5.3.2.1	Elementos básicos: línea (calidad, tipo), forma, volumen, textura.	[UAM A4]
-5.3.2.2	Perspectiva, escalas, simetría, ritmo y módulo.	[UAM A4]
-5.3.2.3	Espacios positivos (macizos) y negativos (huecos).	[UAM A4]
-5.3.3	Historia del Arte (Enfoque de Diseño)	[UAM A4, BUAP A3]
-5.3.3.1	Arte Universal: Clásico (Grecia/Roma), Renacimiento, Vanguardias, Funcionalismo.	[UAM A4, BUAP A3]
-5.3.3.2	Arte en México: Prehispánico, Virreinato, Muralismo, Arquitectura Contemporánea.	[UAM A4, BUAP A3]
-5.4	Metodología de la Investigación y Estudio	[BUAP, IPN]
-5.4.1	Investigación Documental y Académica	[BUAP, IPN]
-5.4.1.1	Fuentes de información: clasificación y registro (fichas).	[IPN, BUAP]
-5.4.1.2	Aparato crítico: Citas y referencias (Formato APA).	[IPN, BUAP]
-5.4.1.3	Proyectos de investigación: protocolo, enfoques (cuali/cuanti) y divulgación.	[BUAP]
-5.4.2	Herramientas de Estudio	[BUAP]
-5.4.2.1	Organizadores gráficos: mapas conceptuales, infografías.	[BUAP]
+NIVEL	CONTENIDO	TAGS	URL
+1	Bloque I: Lengua,Habilidades Lingüísticas y Literatura	[UNAM,IPN,UAM,EXANI II ESP,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.1	Funciones y Formas del Discurso	[UNAM,IPN,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.1.1	Funciones de la lengua	[UNAM,IPN,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.1.1.1	Función referencial,apelativa, fática, metalingüística, emotiva y poética.	[UNAM,IPN,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.1.2	Formas del discurso	[UNAM,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.1.2.1	Discurso descriptivo,narrativo y argumentativo.	[UNAM,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2	Comprensión de Lectura	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1	Estructura y análisis del texto	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.1	Identificación de ideas principales y secundarias.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.2	Título,introducción,desarrollo y conclusión.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.3	Frases clave e inferencia de datos implícitos y explícitos.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.4	Intención comunicativa y punto de vista del autor.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.5	Relaciones internas: causa-efecto,antecedente-consecuente,oposición.	[UAM,EXANI II ESP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.6	Tono del autor y contexto de la obra.	[PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.1.7	Inferencia de rasgos,sentimientos y motivos de los personajes.	[UNAM,IPN,EXANI II ESP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.2	Tipología textual (Comprensión)	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.2.1	Textos periodísticos: noticia,artículo de opinión,crónica (estructura y propósito).	[UNAM,IPN,EXANI II ESP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.2.2	Textos dramáticos: organización dialógica,acción,personajes,tragedia y comedia.	[UNAM,EXANI II MOD11]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.2.3	Textos poéticos: metro,rima,ritmo,análisis intratextual.	[UNAM,IPN,EXANI II MOD11]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.2.4	Textos expositivos,científicos y argumentativos.	[UNAM,IPN,EXANI II ESP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.3	Interpretación de imágenes y gráficos en textos	[USEP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.2.3.1	Obtención de conclusiones a partir de texto e imagen/mapa/tabla.	[USEP,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3	Gramática y Redacción	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1	Morfosintaxis y la Oración	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.1	La oración: sujeto,predicado y sus núcleos.	[UNAM,IPN,UAM,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.2	Concordancia: nominal (género/número) y verbal (sujeto/verbo).	[UNAM,IPN,UAM,EXANI II ESP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.3	Tipos de oraciones: simples,compuestas,coordinadas y subordinadas.	[UAM,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.4	Uso correcto de nexos,conectores y preposiciones.	[UNAM,IPN,UAM,PAA,EXANI II ESP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.5	Verbos: tiempos,modos,uso correcto del gerundio y participio.	[UNAM,IPN,UAM,PAA,EXANI II ESP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.1.6	Pronombres: personales,posesivos y objeto.	[PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.2	Ortografía	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.2.1	Reglas de acentuación: agudas,graves,esdrújulas,diacríticos y hiatos.	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.2.2	Puntuación: uso de coma,punto,punto y coma,dos puntos,comillas,paréntesis.	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.2.3	Uso de grafías: B/V,C/S/Z,G/J,H,LL/Y,R/RR,X.	[UNAM,IPN,UAM,EXANI II ESP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.2.4	Uso de mayúsculas y minúsculas.	[UNAM,IPN,UAM,EXANI II ESP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.3	Vicios del lenguaje y corrección de estilo	[UNAM,IPN,UAM,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.3.1	Barbarismos,solecismos,cacofonías,anfibologías,redundancias.	[IPN,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.3.2	Pobreza de vocabulario y queísmo/dequeísmo.	[IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.3.3.3	Coherencia y cohesión textual (unidad temática,eliminación de ambigüedades).	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4	Léxico,Semántica y Razonamiento Verbal	[UNAM,IPN,UAM,EXANI II ESP,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.1	Relaciones semánticas	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.1.1	Sinónimos y antónimos en contexto.	[UNAM,IPN,UAM,EXANI II ESP,PAA,BUAP,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.1.2	Homófonos y homónimos.	[UNAM,IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.1.3	Parónimos y polisemia.	[UNAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.1.4	Campos semánticos.	[UAM,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.2	Analogías y Lógica Verbal	[UNAM,UAM,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.2.1	Analogías verbales: causa-efecto,parte-todo,género-especie,oposición.	[UNAM,UAM,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.2.2	Completamiento de oraciones y frases (coherencia léxica).	[UAM,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.2.3	Silogismos y premisas: identificación y construcción de conclusiones lógicas.	[USEP,UAM A3,UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.2.4	Decodificación de mensajes y códigos.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.3	Etimologías grecolatinas	[UAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.4.3.1	Raíces,prefijos y sufijos de origen griego y latino.	[UAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5	Literatura (Teoría,Historia y Análisis)	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.1	Teoría Literaria	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.1.1	Propiedades del texto literario: función poética,adecuación,cabalidad.	[UNAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.1.2	Géneros literarios: Épico/Narrativo,Lírico,Dramático,Didáctico/Ensayo.	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.1.3	Figuras retóricas: metáfora,símil,hipérbole,personificación,paradoja,aliteración,sinestesia.	[UNAM,IPN,UAM,EXANI II MOD11,PAA,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.1.4	Corrientes literarias: definición y características generales.	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2	Historia de la Literatura Universal	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2.1	Antigüedad y Edad Media: Épica griega,Teatro griego,Feudalismo.	[UNAM,EXANI II MOD11,UAM A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2.2	Renacimiento,Siglo de Oro y Neoclasicismo.	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2.3	Romanticismo,Realismo y Naturalismo.	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2.4	Modernismo y Vanguardias (Futurismo,Dadaísmo,Surrealismo,Cubismo).	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.2.5	Literatura Contemporánea: Generación del 98,Boom Latinoamericano.	[UNAM,EXANI II MOD11,UAM A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.3	Literatura Hispanoamericana y Mexicana	[UNAM,EXANI II MOD11,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.3.1	Literatura prehispánica (Nezahualcóyotl) y Cronistas de Indias.	[UNAM,UAM A3,EXANI II MOD11]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.3.2	Barroco novohispano (Sor Juana Inés de la Cruz).	[UNAM,UAM A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.3.3	Literatura Mexicana S. XIX y XX: Octavio Paz,Juan Rulfo,Rosario Castellanos.	[UNAM,UAM A3,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.3.4	Autores representativos latinoamericanos: García Márquez,Cortázar,Vargas Llosa,Borges.	[UNAM,UAM A3,EXANI II MOD11]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.4	Redacción y técnicas de investigación documental	[UNAM,IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.4.1	Fichas bibliográficas,hemerográficas y de trabajo.	[UNAM,IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+1.5.4.2	Resumen,paráfrasis,cita textual y referencias (APA).	[UNAM,IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2	Bloque II: Matemáticas	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1	Pensamiento Matemático y Aritmética	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.1	Números Reales y Operaciones Básicas	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.1.1	Suma,resta,multiplicación y división con enteros,decimales y fracciones.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.1.2	Jerarquía de operaciones (agrupación y signos).	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.1.3	Mínimo Común Múltiplo (mcm) y Máximo Común Divisor (MCD).	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.1.4	Propiedades de los números reales (primos,compuestos,teorema fundamental).	[UNAM,IPN,BUAP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.2	Razones y Proporciones	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.2.1	Porcentajes,descuentos y variación proporcional directa e inversa.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.2.2	Regla de tres simple y compuesta.	[UNAM,IPN,UAM,EXANI II MAT,PAA,USEP,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.3	Sucesiones y Series Numéricas	[UNAM,IPN,UAM,EXANI II MAT,BUAP,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.3.1	Patrones numéricos,alfanuméricos y de figuras.	[IPN,UAM,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.3.2	Sucesiones aritméticas y geométricas.	[IPN,UAM,BUAP,EXANI II MAT]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.4	Números Complejos	[UNAM A1,UNAM A2,IPN A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.1.4.1	Operaciones básicas con números complejos (forma binómica).	[UNAM A1,UNAM A2,IPN A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2	Álgebra	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.1	Fundamentos Algebraicos	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.1.1	Lenguaje algebraico: traducción de enunciados.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.1.2	Leyes de los exponentes y radicales (racionalización).	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.1.3	Operaciones con polinomios: suma,resta,producto y división.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.2	Productos Notables y Factorización	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.2.1	Binomio al cuadrado,conjugados,con término común,cubo de un binomio.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.2.2	Binomio de Newton (Teorema del residuo y del factor).	[UNAM A1,UNAM A2,IPN A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.2.3	Factorización: factor común,diferencia de cuadrados,trinomios.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.2.4	Simplificación y operaciones con fracciones algebraicas.	[UNAM,IPN,UAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.3	Ecuaciones y Desigualdades	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.3.1	Ecuaciones de primer grado (lineales) con una incógnita.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.3.2	Sistemas de ecuaciones lineales (2x2 y 3x3): métodos de solución (Cramer,etc.).	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.3.3	Ecuaciones de segundo grado: fórmula general y factorización.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.2.3.4	Desigualdades (inecuaciones) lineales y cuadráticas.	[UNAM,IPN,UAM,EXANI II MAT,BUAP,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3	Geometría Euclidiana y Trigonometría	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.1	Geometría Plana	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.1.1	Ángulos: clasificación,conversión (grados/radianes),entre paralelas.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.1.2	Triángulos: semejanza (Tales),congruencia,Teorema de Pitágoras.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.1.3	Polígonos y Círculo: perímetros,áreas,propiedades.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.1.4	Cuerpos geométricos (Volumen y área superficial).	[UNAM,IPN,UAM A1,UAM A2,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.2	Trigonometría	[UNAM,IPN,UAM A1,UAM A2,EXANI II MAT,PAA,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.2.1	Razones trigonométricas (seno,coseno,tangente) en triángulos rectángulos.	[GENERAL]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.2.2	Círculo trigonométrico y funciones en cualquier cuadrante.	[UNAM,IPN,UAM A1,UAM A2,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.2.3	Ley de Senos y Ley de Cosenos (triángulos oblicuángulos).	[UNAM,IPN,UAM,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.3.2.4	Identidades trigonométricas fundamentales.	[UNAM,IPN,UAM A1,UAM A2,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4	Geometría Analítica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.1	Conceptos Básicos y Recta	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.1.1	Plano cartesiano,distancia entre dos puntos y punto medio.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.1.2	División de un segmento en una razón dada.	[UNAM,IPN,UAM A1,UAM A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.1.3	La Recta: pendiente,ángulo de inclinación,condiciones de paralelismo/perpendicularidad.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.1.4	Ecuaciones de la recta (general,punto-pendiente,simétrica).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2	Cónicas	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2.1	La Circunferencia: ecuaciones (ordinaria,general) y elementos.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2.2	La Parábola: ecuaciones,vértice,foco,directriz.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2.3	La Elipse: ecuaciones,focos,ejes.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2.4	La Hipérbola: ecuaciones y asíntotas.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.4.2.5	Ecuación general de segundo grado (identificación de cónicas).	[UNAM,IPN,UAM A1,UAM A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5	Funciones	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5.1	Análisis de Funciones	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5.1.1	Definición,dominio,contradominio (rango) y gráfica.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5.1.2	Funciones algebraicas (lineales,cuadráticas) y trascendentes (exponenciales,logarítmicas).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD04,BUAP A1,BUAP A2,PAA]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5.1.3	Operaciones con funciones y composición.	[UNAM,IPN,UAM A1,UAM A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.5.1.4	Funciones implícitas,explícitas,crecientes,decrecientes,continuas,discontinuas.	[UNAM]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6	Cálculo Diferencial e Integral	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.1	Límites y Continuidad	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.1.1	Definición y teoremas de límites (laterales,al infinito).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.1.2	Cálculo de límites (formas indeterminadas).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.1.3	Continuidad de una función.	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2	La Derivada	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2.1	Definición e interpretación geométrica (pendiente de la tangente).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2.2	Reglas de derivación (algebraicas,cadena,potencia,producto,cociente).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2.3	Derivadas de funciones trascendentes (trigonométricas,exponenciales,logarítmicas).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2.4	Derivadas implícitas y de orden superior.	[UNAM A1,UNAM A2,IPN A1,IPN A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.2.5	Aplicaciones de la derivada: máximos,mínimos,puntos de inflexión,velocidad/aceleración.	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.3	La Integral	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.3.1	Integral indefinida (antiderivada) y constante de integración.	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.3.2	Fórmulas básicas y métodos (cambio de variable,por partes,fracciones parciales).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.6.3.3	Integral definida,Teorema Fundamental y cálculo de áreas (bajo la curva).	[UNAM A1,UNAM A2,IPN A1,IPN A2,UAM A1,UAM A2,EXANI II MOD04]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7	Probabilidad y Estadística	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.1	Estadística Descriptiva	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.1.1	Tablas de frecuencias y representaciones gráficas (barras,histogramas,circulares).	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.1.2	Medidas de tendencia central: media,mediana,moda.	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.1.3	Medidas de dispersión: rango,varianza,desviación estándar.	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.1.4	Medidas de posición: deciles,cuartiles,percentiles.	[IPN,EXANI II MOD14,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2	Probabilidad	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2.1	Conceptos básicos: espacio muestral,eventos,teoría de conjuntos.	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2.2	Probabilidad clásica (Laplace) y de eventos simples.	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2.3	Técnicas de conteo (permutaciones,combinaciones).	[IPN,UAM A2,UAM A3,EXANI II MOD14,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2.4	Probabilidad condicional,eventos independientes y Teorema de Bayes.	[IPN,EXANI II MOD14,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.7.2.5	Distribuciones de probabilidad (Binomial,Normal,Poisson).	[EXANI II MOD14]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.8	Matemáticas Financieras	[EXANI II MOD12,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.8.1	Fundamentos Financieros	[EXANI II MOD12,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.8.1.1	Porcentajes,descuentos,razones y proporciones financieras.	[EXANI II MOD12,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.8.1.2	Interés simple y compuesto.	[EXANI II MOD12,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+2.8.1.3	Anualidades,amortización,valor presente y futuro.	[EXANI II MOD12,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3	Bloque III: Ciencias Experimentales y de la Salud	[UNAM,IPN,UAM,EXANI II MOD09,EXANI II MOD16,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1	Física	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.1	Fundamentos y Medición	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.1.1	Magnitudes físicas,sistemas de unidades (SI) y conversión.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.1.2	Análisis dimensional,notación científica y errores de medición.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.1.3	Vectores: características,suma,resta y descomposición.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2	Mecánica Clásica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.1	Cinemática: MRU,MRUA,Caída Libre y Tiro Vertical.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.2	Movimiento en dos dimensiones: Tiro Parabólico y Movimiento Circular.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.3	Dinámica: Leyes de Newton,Diagrama de Cuerpo Libre,Fricción.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.4	Estática: Equilibrio de fuerzas y momento de una fuerza (Torque).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.5	Ley de Gravitación Universal y Leyes de Kepler.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.6	Trabajo,Potencia y Energía (Cinética,Potencial,Conservación).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.2.7	Impulso y Cantidad de Movimiento (Choques).	[UNAM,IPN A1,EXANI II MOD09]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.3	Propiedades de la Materia y Fluidos	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.3.1	Elasticidad: Ley de Hooke y Módulo de Young.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.3.2	Hidrostática: Densidad,Presión,Principio de Pascal y Arquímedes.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.3.3	Hidrodinámica: Gasto,Ecuación de Continuidad y Bernoulli.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.3.4	Tensión superficial y capilaridad.	[UNAM,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4	Termodinámica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4.1	Temperatura,escalas termométricas y dilatación.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4.2	Calor: capacidad calorífica,calor específico y latente.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4.3	Transmisión de calor (conducción,convección,radiación).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4.4	Leyes de la Termodinámica (Cero,1ª y 2ª) y procesos termodinámicos.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.4.5	Teoría Cinética de los Gases y Leyes de los Gases ideales.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.5	Ondas y Óptica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.5.1	Movimiento Ondulatorio: características,reflexión,refracción,difracción,interferencia.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.5.2	Acústica: sonido,velocidad,Efecto Doppler.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.5.3	Óptica Geométrica: reflexión,refracción (Ley de Snell),espejos y lentes.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.5.4	Espectro electromagnético y naturaleza de la luz.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6	Electricidad y Magnetismo	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6.1	Electrostática: Carga,Ley de Coulomb,Campo y Potencial Eléctrico.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6.2	Electrodinámica: Corriente,Resistencia,Ley de Ohm y Circuitos (Serie/Paralelo/Mixto).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6.3	Leyes de Kirchhoff y Potencia eléctrica (Joule).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6.4	Magnetismo: campo magnético,inducción,Leyes de Faraday,Ampere,Lenz.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.6.5	Capacitancia y condensadores.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD09,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.7	Física Moderna	[UNAM,IPN,EXANI II MOD09]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.7.1	Estructura atómica,modelos y dualidad onda-partícula.	[UNAM,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.1.7.2	Física Nuclear: radiactividad,fisión y fusión.	[UNAM,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2	Química	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.1	Materia y Estructura Atómica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.1.1	Sustancias puras,mezclas y métodos de separación.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.1.2	Estructura atómica: partículas subatómicas,número atómico y másico,isótopos.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.1.3	Configuración electrónica y Números Cuánticos.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.1.4	Tabla Periódica: clasificación,familias y propiedades periódicas.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.2	Enlaces Químicos y Nomenclatura	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.2.1	Tipos de enlace: iónico,covalente (polar/no polar),metálico.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.2.2	Estructuras de Lewis y Regla del Octeto.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.2.3	Nomenclatura Inorgánica (IUPAC,Stock,Tradicional): óxidos,ácidos,bases,sales.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3	Reacciones Químicas y Estequiometría	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3.1	Tipos de reacciones y balanceo de ecuaciones (tanteo,Redox).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3.2	Concepto de Mol,Masa Molar y Leyes Ponderales.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3.3	Estequiometría: reactivo limitante,rendimiento y pureza.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3.4	Soluciones: concentración (Molaridad,%,ppm) y preparación.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.3.5	Ácidos y Bases: teorías,pH,pOH y neutralización.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.4	Fisicoquímica (Termo y Electro)	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.4.1	Termoquímica: Entalpía,reacciones exo/endotérmicas,Ley de Hess.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.4.2	Cinética y Equilibrio Químico (Le Châtelier).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.4.3	Electroquímica: Celdas galvánicas y electrolíticas.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.5	Química Orgánica	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.5.1	El Carbono: hibridación,tipos de cadena e isomería.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.5.2	Hidrocarburos: Alcanos,Alquenos,Alquinos,Aromáticos (Nomenclatura y reacciones).	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.5.3	Grupos Funcionales: Alcoholes,Éteres,Aldehídos,Cetonas,Ácidos,Ésteres,Aminas.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.5.4	Macromoléculas y Polímeros.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.6	Química y Entorno	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.2.6.1	Química del agua,aire (contaminación) y alimentos.	[UNAM,IPN,UAM A1,UAM A2,EXANI II MOD16,BUAP A1,BUAP A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3	Biología	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.1	Fundamentos de Biología	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.1.1	Niveles de organización de la materia viva.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.1.2	Características de los seres vivos y método científico en biología.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.1.3	Biomoléculas: Carbohidratos,Lípidos,Proteínas,Ácidos Nucleicos.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.1.4	Origen de la vida: Teorías (Quimiosintética,Panspermia,etc.).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.2	Biología Celular	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.2.1	Teoría Celular y tipos de células (Procariota/Eucariota).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.2.2	Estructura y función de los organelos celulares.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.2.3	Transporte celular y membrana.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.3	Metabolismo y Energía	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.3.1	Anabolismo y Catabolismo (ATP y Enzimas).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.3.2	Fotosíntesis (Fases e importancia).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.3.3	Respiración Celular: Aerobia (Glucólisis,Krebs) y Anaerobia (Fermentación).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4	Genética y Reproducción	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4.1	Ciclo Celular: Mitosis y Meiosis.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4.2	Reproducción Sexual y Asexual.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4.3	Genética Mendeliana y patrones de herencia.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4.4	Genética Molecular (ADN,ARN,Síntesis de proteínas) y Mutaciones.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.4.5	Biotecnología e Ingeniería Genética.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.5	Evolución y Biodiversidad	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.5.1	Teorías Evolutivas: Lamarck,Darwin-Wallace,Sintética.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.5.2	Evidencias de la evolución y Especiación.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.5.3	Taxonomía: Clasificación de los 5 Reinos y 3 Dominios.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.5.4	Diversidad biológica en México (Megadiverso).	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.6	Ecología	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.6.1	Estructura del ecosistema (factores bióticos/abióticos) y dinámica (cadenas tróficas).	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.6.2	Ciclos Biogeoquímicos (Agua,Carbono,Nitrógeno).	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.6.3	Relaciones interespecíficas e intraespecíficas.	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.3.6.4	Impacto ambiental y contaminación.	[UNAM,IPN,UAM A2,EXANI II MOD03,BUAP A1,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4	Ciencias de la Salud y Anatomía Humana	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.1	Salud Pública y Propedéutica	[EXANI II MOD05,EXANI II MOD13,EXANI II MOD05,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.1.1	Proceso Salud-Enfermedad,Triada Ecológica e Historia Natural de la Enfermedad.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.1.2	Niveles de prevención y atención médica.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.1.3	Terminología médica (planimetría,raíces,prefijos).	[EXANI II MOD13,EXANI II MOD05,IPN A2,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.1.4	Signos vitales y somatometría.	[EXANI II MOD13,EXANI II MOD05]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2	Anatomía y Fisiología por Sistemas	[EXANI II MOD13,EXANI II MOD05,IPN A2,UAM A2,USEP,BUAP A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.1	Sistema Tegumentario y Musculoesquelético (Huesos,Músculos,Piel).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.2	Sistema Nervioso (Central y Periférico) y Órganos de los Sentidos.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.3	Sistema Endocrino (Glándulas y Hormonas).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.4	Sistema Cardiovascular (Corazón,Vasos,Sangre) y Linfático.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.5	Aparato Respiratorio y Digestivo (Nutrición y Metabolismo).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.6	Aparato Urinario y Reproductor (Femenino/Masculino).	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.2.7	Homeostasis y mecanismos de regulación.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.3	Farmacología y Recursos Medicinales	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.3.1	Nociones de Farmacología.	[UNAM,IPN,UAM A1,UAM A2,BUAP A1,BUAP A2,USEP,EXANI II MOD16,EXANI II MOD05,EXANI II MOD13]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+3.4.3.2	Uso medicinal de las plantas (Herbolaria).	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4	Bloque IV: Ciencias Sociales y Humanidades	[UNAM,IPN,UAM A3,UAM A4,EXANI II MOD10,EXANI II MOD08,EXANI II MOD06,EXANI II MOD07,EXANI II MOD15,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1	Historia Universal	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.1	Introducción a la Historia	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.1.1	Definición,utilidad,fuentes y periodización de la Historia.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.1.2	Corrientes de interpretación histórica (Positivismo,Materialismo Histórico,Escuela de los Annales).	[IPN,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.2	De la Antigüedad a la Edad Moderna	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.2.1	Civilizaciones Antiguas (Grecia y Roma) y Edad Media (Feudalismo).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.2.2	Renacimiento,Humanismo y la expansión colonial (Descubrimientos geográficos).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.2.3	La Ilustración y el Enciclopedismo.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3	Revoluciones Burguesas y Siglo XIX	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3.1	Independencia de las Trece Colonias y Revolución Francesa (Imperio Napoleónico).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3.2	Revolución Industrial (etapas y consecuencias sociales).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3.3	Liberalismo,Nacionalismo y movimientos obreros del siglo XIX.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3.4	Independencia de Hispanoamérica.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.3.5	Imperialismo y expansión colonial (1870-1914).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4	Mundo Contemporáneo (Siglo XX y XXI)	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4.1	Primera Guerra Mundial y Revolución Rusa.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4.2	Periodo de Entreguerras: Crisis de 1929 y Regímenes Totalitarios (Fascismo,Nazismo).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4.3	Segunda Guerra Mundial (Causas,desarrollo y consecuencias).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4.4	Guerra Fría: Bloques de poder,descolonización de Asia y África.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.1.4.5	Caída del bloque soviético,Globalización y Neoliberalismo.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2	Historia de México	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.1	México Antiguo y Colonial	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.1.1	Mesoamérica: áreas culturales,horizontes y principales civilizaciones (Olmeca,Maya,Mexica).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.1.2	Conquista militar y espiritual.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.1.3	El Virreinato: organización política,económica,social y Reformas Borbónicas.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2	México Independiente (Siglo XIX)	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2.1	Independencia de México: causas,etapas (Hidalgo,Morelos,Consumación).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2.2	Primeros proyectos de nación (Monarquía vs República,Federalismo vs Centralismo).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2.3	Conflictos internacionales (Texas,Guerra con EUA,Intervención Francesa).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2.4	Reforma Liberal (Leyes de Reforma,Constitución 1857) y República Restaurada.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.2.5	El Porfiriato: características políticas,económicas,sociales y culturales.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3	México Contemporáneo (Siglo XX y XXI)	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3.1	Revolución Mexicana: Maderismo,Constitucionalismo,Zapatismo,Villismo,Constitución de 1917.	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3.2	Reconstrucción Nacional y Caudillismo (Obregón,Calles,Maximato).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3.3	Cardenismo (Plan Sexenal,Expropiación petrolera,corporativismo).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3.4	Milagro Mexicano y Desarrollo Estabilizador (1940-1970).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.2.3.5	Crisis del sistema,Neoliberalismo,Tecnócratas y Globalización (1982-Actualidad).	[UNAM,IPN,UAM A3,EXANI II MOD10,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3	Geografía	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.1	Geografía Física	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.1.1	La Tierra en el universo: movimientos,coordenadas geográficas y husos horarios.	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.1.2	Litósfera: tectónica de placas,sismicidad,vulcanismo y relieve (México y mundo).	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.1.3	Hidrósfera: ciclo del agua,ríos,lagos y océanos (recursos hídricos).	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.1.4	Atmósfera: clima,elementos y factores del clima,regiones naturales y biodiversidad.	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.2	Geografía Humana y Económica	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.2.1	Población: crecimiento,distribución,indicadores demográficos y migración.	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.2.2	Actividades económicas: regiones agrícolas,ganaderas,industriales y comerciales.	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.2.3	Geografía Política: fronteras,división política de México y conflictos internacionales.	[UNAM,IPN,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.3.2.4	Deterioro ambiental,cambio climático y desarrollo sustentable.	[UNAM,IPN,UAM A2,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4	Filosofía	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.1	Introducción y Problemas Filosóficos	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.1.1	Definición,disciplinas (Ética,Estética,Ontología,Epistemología,Lógica) y problemas fundamentales.	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.1.2	Lógica: tipos de lenguaje,argumentos,falacias y silogismos.	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.1.3	Ética y Moral: valores,responsabilidad,libertad,autonomía.	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2	Historia de la Filosofía	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2.1	Filosofía Antigua: Presocráticos,Sofistas,Sócrates,Platón,Aristóteles.	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2.2	Filosofía Medieval: Patrística (San Agustín) y Escolástica (Sto. Tomás).	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2.3	Filosofía Moderna: Racionalismo (Descartes),Empirismo (Hume/Locke),Idealismo (Kant/Hegel).	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2.4	Filosofía Contemporánea: Marxismo,Existencialismo,Positivismo.	[UNAM A4,EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.4.2.5	Filosofía Mexicana y pensamiento latinoamericano.	[EXANI II MOD08,UAM A3,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5	Formación Cívica,Política y Derecho	[UNAM,IPN,UAM A3,EXANI II MOD06,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.1	Estructura Socioeconómica y Política de México	[UNAM,IPN,UAM A3,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.1.1	El Estado Mexicano: división de poderes (Ejecutivo,Legislativo,Judicial).	[UNAM,IPN,UAM A3,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.1.2	Partidos políticos,sistema electoral y participación ciudadana.	[UNAM,IPN,UAM A3,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.1.3	Modelos económicos en México y su impacto social.	[UNAM,IPN,UAM A3,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.2	Derecho y Normatividad	[UNAM A3,IPN,UAM A3,EXANI II MOD06,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.2.1	Concepto de norma,ley y fuentes del Derecho.	[UNAM A3,IPN,UAM A3,EXANI II MOD06,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.2.2	Constitución Política de los Estados Unidos Mexicanos (Garantías individuales y Derechos Humanos).	[UNAM,IPN,UAM A3,EXANI II MOD06,BUAP A3,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.5.2.3	Ramas del Derecho: Público,Privado y Social (Laboral,Civil,Penal,Agrario).	[UNAM A3,IPN,UAM A3,EXANI II MOD06,BUAP A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6	Disciplinas Sociales Específicas	[EXANI II MOD01,EXANI II MOD06,EXANI II MOD07,EXANI II MOD15,BUAP A3,BUAP A4,UAM A3,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.1	Economía (Teoría)	[EXANI II MOD07,BUAP A3,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.1.1	Principios: escasez,necesidades,microeconomía vs macroeconomía.	[EXANI II MOD07,BUAP A3,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.1.2	Oferta,demanda y mercado.	[EXANI II MOD07,BUAP A3,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.1.3	Indicadores macroeconómicos: PIB,inflación,desempleo.	[EXANI II MOD07,BUAP A3,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.2	Administración	[EXANI II MOD01,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.2.1	Proceso administrativo: Planeación,Organización,Dirección,Control.	[EXANI II MOD01,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.2.2	Áreas funcionales de la empresa y emprendimiento.	[EXANI II MOD01,BUAP A4,IPN A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.3	Psicología (Ciencias Sociales)	[EXANI II MOD15,BUAP A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.3.1	Bases biológicas de la conducta y procesos psicológicos (percepción,memoria,aprendizaje).	[EXANI II MOD15,BUAP A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.3.2	Teorías de la personalidad y corrientes psicológicas.	[EXANI II MOD15,BUAP A1]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.4	Pedagogía	[BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+4.6.4.1	Conceptos de pedagogía,didáctica y corrientes educativas.	[BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5	Bloque V: Módulos Técnicos,TICs,Inglés e Investigación	[IPN,EXANI II,PAA,USEP,BUAP,UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1	Inglés (Lengua Extranjera)	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.1	Comprensión Lectora (Reading)	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.1.1	Identificación de ideas principales,detalles específicos y propósito del texto.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.1.2	Inferencia de significado por contexto y lenguaje figurativo.	[EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.1.3	Tipos de texto: anuncios,correos,noticias,instrucciones y textos breves.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.2	Gramática y Uso de la Lengua (Use of English)	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.2.1	Tiempos verbales: Presente (Simple/Continuo),Pasado (Simple),Futuro (Planes).	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.2.2	Estructuras básicas: Comparativos,superlativos,auxiliares (do/does/did).	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.2.3	Pronombres,preposiciones,conectores y concordancia.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.3	Vocabulario y Contextos Comunicativos	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.3.1	Información personal,familia,rutinas y descripción de personas.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.3.2	Entornos cotidianos: Compras,Restaurantes,Trabajo,Escuela,Vacaciones.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.1.3.3	Salud,deportes y fenómenos naturales.	[IPN,EXANI II,PAA,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2	Tecnologías de la Información y Comunicación (TICs)	[USEP,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.1	Software de Oficina y Productividad	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.1.1	Procesadores de Texto: edición,formato,tablas.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.1.2	Hojas de Cálculo: fórmulas,funciones,filtros y gráficos.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.1.3	Presentadores electrónicos y edición básica (video/sonido).	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.2	Pensamiento Computacional	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.2.1	Algoritmos: concepto,características y expresión narrativa.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.2.2	Diagramas de flujo: simbología y elaboración.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.3	Ciudadanía Digital e Internet	[USEP,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.3.1	Navegación,buscadores y correo electrónico.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.3.2	Seguridad digital: sitios confiables vs plagio/información falsa.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.2.3.3	Redes sociales y comunicación en grupos digitales.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3	Diseño,Artes y Razonamiento Visuoespacial	[UAM A4,USEP,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.1	Razonamiento Visuoespacial y Abstracto	[UAM A4,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.1.1	Visualización y Rotación mental de figuras (2D y 3D).	[UAM A4,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.1.2	Desarrollos planos de sólidos (dobleces,armar cubos/figuras).	[UAM A4,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.1.3	Conteo de figuras,vistas,cortes y proyecciones (ortogonal,isométrica).	[UAM A4,USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.1.4	Identificación de patrones,sombras y reflejos.	[USEP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.2	Fundamentos de Dibujo y Diseño	[UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.2.1	Elementos básicos: línea (calidad,tipo),forma,volumen,textura.	[UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.2.2	Perspectiva,escalas,simetría,ritmo y módulo.	[UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.2.3	Espacios positivos (macizos) y negativos (huecos).	[UAM A4]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.3	Historia del Arte (Enfoque de Diseño)	[UAM A4,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.3.1	Arte Universal: Clásico (Grecia/Roma),Renacimiento,Vanguardias,Funcionalismo.	[UAM A4,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.3.3.2	Arte en México: Prehispánico,Virreinato,Muralismo,Arquitectura Contemporánea.	[UAM A4,BUAP A3]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4	Metodología de la Investigación y Estudio	[BUAP,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.1	Investigación Documental y Académica	[BUAP,IPN]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.1.1	Fuentes de información: clasificación y registro (fichas).	[IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.1.2	Aparato crítico: Citas y referencias (Formato APA).	[IPN,BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.1.3	Proyectos de investigación: protocolo,enfoques (cuali/cuanti) y divulgación.	[BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.2	Herramientas de Estudio	[BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
+5.4.2.1	Organizadores gráficos: mapas conceptuales,infografías.	[BUAP]	https://simuladores.cepredix.com.mx/00-espera-un-poco-un-poquito-maaaaas.html
